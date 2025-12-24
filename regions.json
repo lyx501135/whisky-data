@@ -1,0 +1,677 @@
+[
+  {
+    "id": "speyside",
+    "name": {"en": "Speyside", "zh": "斯佩塞"},
+    "countryId": "scotland",
+    "description": {
+      "en": "Home to over half of Scotland's distilleries, Speyside produces elegant, often sherried whiskies with notes of fruit and honey.",
+      "zh": "拥有苏格兰一半以上的酒厂，斯佩塞生产优雅的雪莉桶威士忌，带有水果和蜂蜜的味道。"
+    },
+    "characteristics": [
+      {"en": "Fruity", "zh": "果香"},
+      {"en": "Sweet", "zh": "甜美"},
+      {"en": "Elegant", "zh": "优雅"},
+      {"en": "Sherried", "zh": "雪莉桶"}
+    ]
+  },
+  {
+    "id": "islay",
+    "name": {"en": "Islay", "zh": "艾雷岛"},
+    "countryId": "scotland",
+    "description": {
+      "en": "The peat-lover's paradise. Islay's eight distilleries produce the world's most intensely smoky whiskies.",
+      "zh": "泥煤爱好者的天堂。艾雷岛的八家酒厂生产世界上最浓烈的烟熏威士忌。"
+    },
+    "characteristics": [
+      {"en": "Peaty", "zh": "泥煤"},
+      {"en": "Smoky", "zh": "烟熏"},
+      {"en": "Maritime", "zh": "海洋"},
+      {"en": "Medicinal", "zh": "药草"}
+    ]
+  },
+  {
+    "id": "highlands",
+    "name": {"en": "Highlands", "zh": "高地"},
+    "countryId": "scotland",
+    "description": {
+      "en": "Scotland's largest whisky region offers incredible diversity, from light and floral to rich and full-bodied.",
+      "zh": "苏格兰最大的威士忌产区提供了令人难以置信的多样性，从轻盈花香到浓郁醇厚。"
+    },
+    "characteristics": [
+      {"en": "Diverse", "zh": "多样"},
+      {"en": "Full-bodied", "zh": "醇厚"},
+      {"en": "Heathery", "zh": "石楠"},
+      {"en": "Complex", "zh": "复杂"}
+    ]
+  },
+  {
+    "id": "islands",
+    "name": {"en": "Islands", "zh": "岛屿"},
+    "countryId": "scotland",
+    "description": {
+      "en": "The Scottish islands (excluding Islay) produce characterful whiskies with maritime and smoky influences.",
+      "zh": "苏格兰岛屿（不包括艾雷岛）生产具有海洋和烟熏影响的特色威士忌。"
+    },
+    "characteristics": [
+      {"en": "Maritime", "zh": "海洋"},
+      {"en": "Smoky", "zh": "烟熏"},
+      {"en": "Briny", "zh": "咸味"},
+      {"en": "Complex", "zh": "复杂"}
+    ]
+  },
+  {
+    "id": "campbeltown",
+    "name": {"en": "Campbeltown", "zh": "坎贝尔镇"},
+    "countryId": "scotland",
+    "description": {
+      "en": "Once home to over 30 distilleries, Campbeltown's remaining three produce distinctive, often briny whiskies.",
+      "zh": "曾经拥有超过30家酒厂，坎贝尔镇现存的三家酒厂生产独特的、常带咸味的威士忌。"
+    },
+    "characteristics": [
+      {"en": "Briny", "zh": "咸味"},
+      {"en": "Oily", "zh": "油润"},
+      {"en": "Complex", "zh": "复杂"},
+      {"en": "Maritime", "zh": "海洋"}
+    ]
+  },
+  {
+    "id": "lowlands",
+    "name": {"en": "Lowlands", "zh": "低地"},
+    "countryId": "scotland",
+    "description": {
+      "en": "The Lowlands produce light, gentle whiskies often called the 'Lowland Ladies' for their delicate character.",
+      "zh": "低地生产轻盈、温和的威士忌，因其细腻的特性常被称为'低地淑女'。"
+    },
+    "characteristics": [
+      {"en": "Light", "zh": "轻盈"},
+      {"en": "Grassy", "zh": "草香"},
+      {"en": "Floral", "zh": "花香"},
+      {"en": "Delicate", "zh": "细腻"}
+    ]
+  },
+  {
+    "id": "munster",
+    "name": {"en": "Munster", "zh": "芒斯特"},
+    "countryId": "ireland",
+    "description": {
+      "en": "Home to Ireland's largest distillery complex at Midleton, producing a wide range of Irish whiskey styles.",
+      "zh": "爱尔兰最大的酒厂群所在地Midleton，生产各种爱尔兰威士忌风格。"
+    },
+    "characteristics": [
+      {"en": "Smooth", "zh": "顺滑"},
+      {"en": "Pot Still", "zh": "壶式蒸馏"},
+      {"en": "Triple Distilled", "zh": "三次蒸馏"},
+      {"en": "Complex", "zh": "复杂"}
+    ]
+  },
+  {
+    "id": "antrim",
+    "name": {"en": "County Antrim", "zh": "安特里姆郡"},
+    "countryId": "ireland",
+    "description": {
+      "en": "Home to Old Bushmills, the world's oldest licensed distillery, producing classic Irish single malts.",
+      "zh": "世界上最古老的持牌酒厂Old Bushmills所在地，生产经典的爱尔兰单一麦芽威士忌。"
+    },
+    "characteristics": [
+      {"en": "Light", "zh": "轻盈"},
+      {"en": "Smooth", "zh": "顺滑"},
+      {"en": "Triple Distilled", "zh": "三次蒸馏"},
+      {"en": "Honeyed", "zh": "蜂蜜"}
+    ]
+  },
+  {
+    "id": "dublin",
+    "name": {"en": "Dublin", "zh": "都柏林"},
+    "countryId": "ireland",
+    "description": {
+      "en": "Dublin's whiskey renaissance has brought new distilleries to the historic capital of Irish whiskey.",
+      "zh": "都柏林的威士忌复兴为这座爱尔兰威士忌的历史首都带来了新的酒厂。"
+    },
+    "characteristics": [
+      {"en": "Innovative", "zh": "创新"},
+      {"en": "Urban", "zh": "都市"},
+      {"en": "Modern", "zh": "现代"},
+      {"en": "Diverse", "zh": "多样"}
+    ]
+  },
+  {
+    "id": "honshu",
+    "name": {"en": "Honshū", "zh": "本州"},
+    "countryId": "japan",
+    "description": {
+      "en": "Japan's main island hosts the legendary Yamazaki and Hakushu distilleries in diverse climates.",
+      "zh": "日本主岛拥有传奇的山崎和白州酒厂，气候多样。"
+    },
+    "characteristics": [
+      {"en": "Elegant", "zh": "优雅"},
+      {"en": "Mizunara", "zh": "水楢橡木"},
+      {"en": "Refined", "zh": "精致"},
+      {"en": "Complex", "zh": "复杂"}
+    ]
+  },
+  {
+    "id": "hokkaido",
+    "name": {"en": "Hokkaidō", "zh": "北海道"},
+    "countryId": "japan",
+    "description": {
+      "en": "Japan's northern island provides a climate similar to Scotland, perfect for whisky production at Yoichi.",
+      "zh": "日本北部岛屿提供类似苏格兰的气候，非常适合余市的威士忌生产。"
+    },
+    "characteristics": [
+      {"en": "Peaty", "zh": "泥煤"},
+      {"en": "Maritime", "zh": "海洋"},
+      {"en": "Bold", "zh": "浓烈"},
+      {"en": "Scottish-style", "zh": "苏格兰风格"}
+    ]
+  },
+  {
+    "id": "kentucky",
+    "name": {"en": "Kentucky", "zh": "肯塔基"},
+    "countryId": "usa",
+    "description": {
+      "en": "The heartland of bourbon, Kentucky's limestone-filtered water and climate create the world's finest bourbon.",
+      "zh": "波本威士忌的中心地带，肯塔基的石灰岩过滤水和气候创造了世界上最好的波本威士忌。"
+    },
+    "characteristics": [
+      {"en": "Sweet", "zh": "甜美"},
+      {"en": "Vanilla", "zh": "香草"},
+      {"en": "Caramel", "zh": "焦糖"},
+      {"en": "Oak", "zh": "橡木"}
+    ]
+  },
+  {
+    "id": "tennessee",
+    "name": {"en": "Tennessee", "zh": "田纳西"},
+    "countryId": "usa",
+    "description": {
+      "en": "Home to Tennessee Whiskey, distinguished by the Lincoln County Process of charcoal mellowing.",
+      "zh": "田纳西威士忌的故乡，以林肯县工艺的木炭过滤而闻名。"
+    },
+    "characteristics": [
+      {"en": "Smooth", "zh": "顺滑"},
+      {"en": "Charcoal-filtered", "zh": "木炭过滤"},
+      {"en": "Sweet", "zh": "甜美"},
+      {"en": "Mellow", "zh": "柔和"}
+    ]
+  },
+  {
+    "id": "ontario",
+    "name": {"en": "Ontario", "zh": "安大略"},
+    "countryId": "canada",
+    "description": {
+      "en": "Ontario hosts several important Canadian whisky producers, including the famous Hiram Walker distillery.",
+      "zh": "安大略拥有几家重要的加拿大威士忌生产商，包括著名的Hiram Walker酒厂。"
+    },
+    "characteristics": [
+      {"en": "Smooth", "zh": "顺滑"},
+      {"en": "Rye", "zh": "黑麦"},
+      {"en": "Diverse", "zh": "多样"},
+      {"en": "Light", "zh": "轻盈"}
+    ]
+  },
+  {
+    "id": "manitoba",
+    "name": {"en": "Manitoba", "zh": "马尼托巴"},
+    "countryId": "canada",
+    "description": {
+      "en": "Home to Crown Royal's production facilities in Gimli, on the shores of Lake Winnipeg.",
+      "zh": "Crown Royal生产设施所在地Gimli，位于温尼伯湖畔。"
+    },
+    "characteristics": [
+      {"en": "Smooth", "zh": "顺滑"},
+      {"en": "Light", "zh": "轻盈"},
+      {"en": "Balanced", "zh": "均衡"},
+      {"en": "Clean", "zh": "清爽"}
+    ]
+  },
+  {
+    "id": "yilan",
+    "name": {"en": "Yilan County", "zh": "宜兰县"},
+    "countryId": "taiwan",
+    "description": {
+      "en": "Kavalan's home benefits from Taiwan's subtropical climate for rapid, intense maturation.",
+      "zh": "噶玛兰的故乡受益于台湾的亚热带气候，实现快速而浓郁的陈化。"
+    },
+    "characteristics": [
+      {"en": "Tropical", "zh": "热带"},
+      {"en": "Intense", "zh": "浓烈"},
+      {"en": "Fruity", "zh": "果香"},
+      {"en": "Complex", "zh": "复杂"}
+    ]
+  },
+  {
+    "id": "singapore_central",
+    "name": {"en": "Singapore", "zh": "新加坡"},
+    "countryId": "singapore",
+    "description": {
+      "en": "Singapore's pioneering craft distilleries embrace tropical aging and innovation, producing award-winning rice whiskey and single malts.",
+      "zh": "新加坡开创性的手工酒厂拥抱热带陈化和创新，生产获奖的米威士忌和单一麦芽威士忌。"
+    },
+    "characteristics": [
+      {"en": "Tropical", "zh": "热带"},
+      {"en": "Innovative", "zh": "创新"},
+      {"en": "Diverse", "zh": "多样"},
+      {"en": "Award-winning", "zh": "获奖"}
+    ]
+  },
+  {
+    "id": "karnataka",
+    "name": {"en": "Karnataka", "zh": "卡纳塔克邦"},
+    "countryId": "india",
+    "description": {
+      "en": "Home to Amrut in Bangalore, India's first single malt producer at high altitude.",
+      "zh": "班加罗尔的Amrut所在地，印度第一家高海拔单一麦芽生产商。"
+    },
+    "characteristics": [
+      {"en": "Tropical", "zh": "热带"},
+      {"en": "Intense", "zh": "浓烈"},
+      {"en": "Bold", "zh": "大胆"},
+      {"en": "Spicy", "zh": "辛辣"}
+    ]
+  },
+  {
+    "id": "goa",
+    "name": {"en": "Goa", "zh": "果阿"},
+    "countryId": "india",
+    "description": {
+      "en": "Paul John distillery benefits from Goa's coastal climate and sea air for unique maturation.",
+      "zh": "Paul John酒厂受益于果阿的沿海气候和海风，实现独特的陈化。"
+    },
+    "characteristics": [
+      {"en": "Coastal", "zh": "沿海"},
+      {"en": "Tropical", "zh": "热带"},
+      {"en": "Fruity", "zh": "果香"},
+      {"en": "Maritime", "zh": "海洋"}
+    ]
+  },
+  {
+    "id": "tasmania",
+    "name": {"en": "Tasmania", "zh": "塔斯马尼亚"},
+    "countryId": "australia",
+    "description": {
+      "en": "Australia's whisky heartland, with clean air, pure water, and ideal climate for world-class whisky.",
+      "zh": "澳大利亚威士忌的中心地带，拥有清洁的空气、纯净的水和理想的气候，生产世界级威士忌。"
+    },
+    "characteristics": [
+      {"en": "Pure", "zh": "纯净"},
+      {"en": "Maritime", "zh": "海洋"},
+      {"en": "Complex", "zh": "复杂"},
+      {"en": "Award-winning", "zh": "获奖"}
+    ]
+  },
+  {
+    "id": "victoria",
+    "name": {"en": "Victoria", "zh": "维多利亚"},
+    "countryId": "australia",
+    "description": {
+      "en": "Home to innovative distilleries like Starward using Australian wine barrels.",
+      "zh": "创新酒厂如Starward的所在地，使用澳大利亚葡萄酒桶。"
+    },
+    "characteristics": [
+      {"en": "Innovative", "zh": "创新"},
+      {"en": "Wine-influenced", "zh": "葡萄酒影响"},
+      {"en": "Fruity", "zh": "果香"},
+      {"en": "Modern", "zh": "现代"}
+    ]
+  },
+  {
+    "id": "brecon",
+    "name": {"en": "Brecon Beacons", "zh": "布雷肯比肯斯"},
+    "countryId": "wales",
+    "description": {
+      "en": "Penderyn's home in the Brecon Beacons National Park provides pure Welsh mountain water.",
+      "zh": "Penderyn在布雷肯比肯斯国家公园的故乡提供纯净的威尔士山泉水。"
+    },
+    "characteristics": [
+      {"en": "Light", "zh": "轻盈"},
+      {"en": "Fruity", "zh": "果香"},
+      {"en": "Elegant", "zh": "优雅"},
+      {"en": "Mountain", "zh": "山地"}
+    ]
+  },
+  {
+    "id": "norfolk",
+    "name": {"en": "Norfolk", "zh": "诺福克"},
+    "countryId": "england",
+    "description": {
+      "en": "Home to The English Whisky Company, England's first whisky distillery in over a century.",
+      "zh": "英格兰威士忌公司的所在地，一个多世纪以来英格兰的第一家威士忌酒厂。"
+    },
+    "characteristics": [
+      {"en": "Light", "zh": "轻盈"},
+      {"en": "Floral", "zh": "花香"},
+      {"en": "English", "zh": "英格兰"},
+      {"en": "Pioneering", "zh": "开创"}
+    ]
+  },
+  {
+    "id": "cotswolds",
+    "name": {"en": "Cotswolds", "zh": "科茨沃尔德"},
+    "countryId": "england",
+    "description": {
+      "en": "The Cotswolds distillery uses local barley and spring water from the limestone hills.",
+      "zh": "科茨沃尔德酒厂使用当地大麦和石灰岩山丘的泉水。"
+    },
+    "characteristics": [
+      {"en": "Local", "zh": "本地"},
+      {"en": "Traditional", "zh": "传统"},
+      {"en": "English", "zh": "英格兰"},
+      {"en": "Terroir", "zh": "风土"}
+    ]
+  },
+  {
+    "id": "lake_district",
+    "name": {"en": "Lake District", "zh": "湖区"},
+    "countryId": "england",
+    "description": {
+      "en": "The Lakes Distillery blends scenic beauty with serious whisky production.",
+      "zh": "湖区酒厂将风景之美与严肃的威士忌生产相结合。"
+    },
+    "characteristics": [
+      {"en": "Scenic", "zh": "风景"},
+      {"en": "Complex", "zh": "复杂"},
+      {"en": "Blended", "zh": "混合"},
+      {"en": "Innovative", "zh": "创新"}
+    ]
+  },
+  {
+    "id": "brittany",
+    "name": {"en": "Brittany", "zh": "布列塔尼"},
+    "countryId": "france",
+    "description": {
+      "en": "Celtic Brittany has a natural affinity for whisky, with maritime-influenced distilleries.",
+      "zh": "凯尔特布列塔尼对威士忌有天然的亲和力，拥有受海洋影响的酒厂。"
+    },
+    "characteristics": [
+      {"en": "Celtic", "zh": "凯尔特"},
+      {"en": "Maritime", "zh": "海洋"},
+      {"en": "Traditional", "zh": "传统"},
+      {"en": "Distinctive", "zh": "独特"}
+    ]
+  },
+  {
+    "id": "gastrikland",
+    "name": {"en": "Gästrikland", "zh": "耶斯特里克兰"},
+    "countryId": "sweden",
+    "description": {
+      "en": "Mackmyra's home region, pioneering Swedish whisky with unique Scandinavian character.",
+      "zh": "Mackmyra的故乡地区，以独特的斯堪的纳维亚特色开创瑞典威士忌。"
+    },
+    "characteristics": [
+      {"en": "Nordic", "zh": "北欧"},
+      {"en": "Innovative", "zh": "创新"},
+      {"en": "Swedish Oak", "zh": "瑞典橡木"},
+      {"en": "Pioneer", "zh": "先驱"}
+    ]
+  },
+  {
+    "id": "angermanland",
+    "name": {"en": "Ångermanland", "zh": "昂格曼兰"},
+    "countryId": "sweden",
+    "description": {
+      "en": "High Coast distillery sits on the UNESCO World Heritage High Coast.",
+      "zh": "高海岸酒厂位于联合国教科文组织世界遗产高海岸。"
+    },
+    "characteristics": [
+      {"en": "Nordic", "zh": "北欧"},
+      {"en": "Fresh", "zh": "清新"},
+      {"en": "Clean", "zh": "清爽"},
+      {"en": "Maritime", "zh": "海洋"}
+    ]
+  },
+  {
+    "id": "bavaria",
+    "name": {"en": "Bavaria", "zh": "巴伐利亚"},
+    "countryId": "germany",
+    "description": {
+      "en": "Slyrs distillery uses Alpine spring water and Bavarian malting barley.",
+      "zh": "Slyrs酒厂使用阿尔卑斯泉水和巴伐利亚麦芽大麦。"
+    },
+    "characteristics": [
+      {"en": "Alpine", "zh": "阿尔卑斯"},
+      {"en": "Clean", "zh": "清爽"},
+      {"en": "Bavarian", "zh": "巴伐利亚"},
+      {"en": "Mountain", "zh": "山地"}
+    ]
+  },
+  {
+    "id": "franconia",
+    "name": {"en": "Franconia", "zh": "弗兰科尼亚"},
+    "countryId": "germany",
+    "description": {
+      "en": "St. Kilian distillery represents Germany's largest malt whisky producer.",
+      "zh": "圣基利安酒厂代表德国最大的麦芽威士忌生产商。"
+    },
+    "characteristics": [
+      {"en": "Large-scale", "zh": "大规模"},
+      {"en": "German", "zh": "德国"},
+      {"en": "Innovative", "zh": "创新"},
+      {"en": "Quality", "zh": "品质"}
+    ]
+  },
+  {
+    "id": "north_brabant",
+    "name": {"en": "North Brabant", "zh": "北布拉邦"},
+    "countryId": "netherlands",
+    "description": {
+      "en": "Home to Zuidam, producers of the award-winning Millstone range.",
+      "zh": "Zuidam的所在地，生产获奖的Millstone系列。"
+    },
+    "characteristics": [
+      {"en": "Craft", "zh": "手工"},
+      {"en": "Rye", "zh": "黑麦"},
+      {"en": "Award-winning", "zh": "获奖"},
+      {"en": "Dutch", "zh": "荷兰"}
+    ]
+  },
+  {
+    "id": "langenthal",
+    "name": {"en": "Langenthal", "zh": "朗根塔尔"},
+    "countryId": "switzerland",
+    "description": {
+      "en": "Langatun distillery crafts Swiss whisky with wine cask expertise.",
+      "zh": "Langatun酒厂以葡萄酒桶专业知识打造瑞士威士忌。"
+    },
+    "characteristics": [
+      {"en": "Wine-finished", "zh": "葡萄酒桶陈化"},
+      {"en": "Alpine", "zh": "阿尔卑斯"},
+      {"en": "Swiss", "zh": "瑞士"},
+      {"en": "Elegant", "zh": "优雅"}
+    ]
+  },
+  {
+    "id": "ostrobothnia",
+    "name": {"en": "Ostrobothnia", "zh": "奥斯特罗博特尼亚"},
+    "countryId": "finland",
+    "description": {
+      "en": "Kyrö distillery produces rye-based spirits in a former dairy.",
+      "zh": "Kyrö酒厂在一个前奶制品厂生产黑麦基烈酒。"
+    },
+    "characteristics": [
+      {"en": "Rye", "zh": "黑麦"},
+      {"en": "Finnish", "zh": "芬兰"},
+      {"en": "Artisan", "zh": "手工"},
+      {"en": "Unique", "zh": "独特"}
+    ]
+  },
+  {
+    "id": "central_finland",
+    "name": {"en": "Central Finland", "zh": "中芬兰"},
+    "countryId": "finland",
+    "description": {
+      "en": "Teerenpeli operates from Lahti, combining brewery and distillery.",
+      "zh": "Teerenpeli从拉赫蒂运营，结合啤酒厂和酒厂。"
+    },
+    "characteristics": [
+      {"en": "Brewery", "zh": "啤酒厂"},
+      {"en": "Finnish", "zh": "芬兰"},
+      {"en": "Traditional", "zh": "传统"},
+      {"en": "Craft", "zh": "手工"}
+    ]
+  },
+  {
+    "id": "west_jutland",
+    "name": {"en": "West Jutland", "zh": "西日德兰"},
+    "countryId": "denmark",
+    "description": {
+      "en": "Stauning distillery revives traditional Danish distilling methods.",
+      "zh": "Stauning酒厂复兴传统的丹麦蒸馏方法。"
+    },
+    "characteristics": [
+      {"en": "Traditional", "zh": "传统"},
+      {"en": "Floor-malted", "zh": "地板发芽"},
+      {"en": "Danish", "zh": "丹麦"},
+      {"en": "Innovative", "zh": "创新"}
+    ]
+  },
+  {
+    "id": "wallonia",
+    "name": {"en": "Wallonia", "zh": "瓦隆"},
+    "countryId": "belgium",
+    "description": {
+      "en": "The Belgian Owl distillery produces Belgium's most acclaimed single malt.",
+      "zh": "比利时猫头鹰酒厂生产比利时最受赞誉的单一麦芽威士忌。"
+    },
+    "characteristics": [
+      {"en": "Belgian", "zh": "比利时"},
+      {"en": "Craft", "zh": "手工"},
+      {"en": "Pioneer", "zh": "先驱"},
+      {"en": "Quality", "zh": "品质"}
+    ]
+  },
+  {
+    "id": "east_flanders",
+    "name": {"en": "East Flanders", "zh": "东弗兰德斯"},
+    "countryId": "belgium",
+    "description": {
+      "en": "Gouden Carolus uses Belgian beer expertise for unique whisky.",
+      "zh": "金卡罗勒斯利用比利时啤酒专业知识制作独特的威士忌。"
+    },
+    "characteristics": [
+      {"en": "Beer", "zh": "啤酒"},
+      {"en": "Belgian", "zh": "比利时"},
+      {"en": "Innovative", "zh": "创新"},
+      {"en": "Unique", "zh": "独特"}
+    ]
+  },
+  {
+    "id": "auckland",
+    "name": {"en": "Auckland", "zh": "奥克兰"},
+    "countryId": "new_zealand",
+    "description": {
+      "en": "Thomson Whisky uses native New Zealand woods for smoking.",
+      "zh": "汤姆森威士忌使用新西兰本地木材进行烟熏。"
+    },
+    "characteristics": [
+      {"en": "Manuka", "zh": "麦卢卡"},
+      {"en": "Native", "zh": "本地"},
+      {"en": "Innovative", "zh": "创新"},
+      {"en": "New Zealand", "zh": "新西兰"}
+    ]
+  },
+  {
+    "id": "western_cape",
+    "name": {"en": "Western Cape", "zh": "西开普"},
+    "countryId": "south_africa",
+    "description": {
+      "en": "James Sedgwick distillery produces award-winning South African whisky.",
+      "zh": "詹姆斯·塞奇威克酒厂生产获奖的南非威士忌。"
+    },
+    "characteristics": [
+      {"en": "Award-winning", "zh": "获奖"},
+      {"en": "African", "zh": "非洲"},
+      {"en": "Tropical", "zh": "热带"},
+      {"en": "Diverse", "zh": "多样"}
+    ]
+  },
+  {
+    "id": "tel_aviv",
+    "name": {"en": "Tel Aviv", "zh": "特拉维夫"},
+    "countryId": "israel",
+    "description": {
+      "en": "Milk & Honey is Israel's first whisky distillery in the Mediterranean climate.",
+      "zh": "Milk & Honey是以色列第一家威士忌酒厂，位于地中海气候区。"
+    },
+    "characteristics": [
+      {"en": "Mediterranean", "zh": "地中海"},
+      {"en": "Rapid", "zh": "快速"},
+      {"en": "Intense", "zh": "浓烈"},
+      {"en": "Pioneer", "zh": "先驱"}
+    ]
+  },
+  {
+    "id": "segovia",
+    "name": {"en": "Segovia", "zh": "塞哥维亚"},
+    "countryId": "spain",
+    "description": {
+      "en": "DYC has produced Spanish whisky in the mountains of Segovia since 1959.",
+      "zh": "DYC自1959年以来一直在塞哥维亚山区生产西班牙威士忌。"
+    },
+    "characteristics": [
+      {"en": "Mountain", "zh": "山地"},
+      {"en": "Traditional", "zh": "传统"},
+      {"en": "Spanish", "zh": "西班牙"},
+      {"en": "Historic", "zh": "历史"}
+    ]
+  },
+  {
+    "id": "south_tyrol",
+    "name": {"en": "South Tyrol", "zh": "南蒂罗尔"},
+    "countryId": "italy",
+    "description": {
+      "en": "PUNI distillery crafts Italian whisky in the heart of the Alps.",
+      "zh": "PUNI酒厂在阿尔卑斯山的中心地带制作意大利威士忌。"
+    },
+    "characteristics": [
+      {"en": "Alpine", "zh": "阿尔卑斯"},
+      {"en": "Italian", "zh": "意大利"},
+      {"en": "Wine", "zh": "葡萄酒"},
+      {"en": "Elegant", "zh": "优雅"}
+    ]
+  },
+  {
+    "id": "bohemia",
+    "name": {"en": "Bohemia", "zh": "波希米亚"},
+    "countryId": "czech_republic",
+    "description": {
+      "en": "Stock distillery has Czech whisky heritage dating back decades.",
+      "zh": "Stock酒厂拥有可追溯数十年的捷克威士忌传统。"
+    },
+    "characteristics": [
+      {"en": "Historic", "zh": "历史"},
+      {"en": "Czech", "zh": "捷克"},
+      {"en": "Traditional", "zh": "传统"},
+      {"en": "Aged", "zh": "陈年"}
+    ]
+  },
+  {
+    "id": "upper_austria",
+    "name": {"en": "Upper Austria", "zh": "上奥地利"},
+    "countryId": "austria",
+    "description": {
+      "en": "Reisetbauer combines fruit distilling expertise with whisky making.",
+      "zh": "Reisetbauer将水果蒸馏专业知识与威士忌制作相结合。"
+    },
+    "characteristics": [
+      {"en": "Fruit", "zh": "水果"},
+      {"en": "Wine", "zh": "葡萄酒"},
+      {"en": "Craft", "zh": "手工"},
+      {"en": "Austrian", "zh": "奥地利"}
+    ]
+  },
+  {
+    "id": "lower_austria",
+    "name": {"en": "Lower Austria", "zh": "下奥地利"},
+    "countryId": "austria",
+    "description": {
+      "en": "Waldviertler experiments with grains like oats for unique whiskies.",
+      "zh": "Waldviertler尝试使用燕麦等谷物制作独特的威士忌。"
+    },
+    "characteristics": [
+      {"en": "Experimental", "zh": "实验"},
+      {"en": "Grain", "zh": "谷物"},
+      {"en": "Austrian", "zh": "奥地利"},
+      {"en": "Unique", "zh": "独特"}
+    ]
+  }
+]

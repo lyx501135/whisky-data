@@ -1,0 +1,2206 @@
+[
+  {
+    "id": "macallan",
+    "name": {
+      "en": "The Macallan",
+      "zh": "麦卡伦"
+    },
+    "regionId": "speyside",
+    "foundedYear": 1824,
+    "owner": {
+      "en": "Edrington Group",
+      "zh": "爱丁顿集团"
+    },
+    "description": {
+      "en": "One of the most prestigious distilleries in the world, known for exceptional sherry-matured whiskies.",
+      "zh": "世界上最负盛名的酒厂之一，以卓越的雪莉桶陈年威士忌而闻名。"
+    },
+    "website": "https://www.themacallan.com",
+    "isActive": true
+  },
+  {
+    "id": "glenfiddich",
+    "name": {
+      "en": "Glenfiddich",
+      "zh": "格兰菲迪"
+    },
+    "regionId": "speyside",
+    "foundedYear": 1886,
+    "owner": {
+      "en": "William Grant & Sons",
+      "zh": "威廉格兰父子"
+    },
+    "description": {
+      "en": "The world's best-selling single malt whisky, family-owned since 1886.",
+      "zh": "世界上最畅销的单一麦芽威士忌，自1886年以来一直由家族拥有。"
+    },
+    "website": "https://www.glenfiddich.com",
+    "isActive": true
+  },
+  {
+    "id": "glenlivet",
+    "name": {
+      "en": "The Glenlivet",
+      "zh": "格兰威特"
+    },
+    "regionId": "speyside",
+    "foundedYear": 1824,
+    "owner": {
+      "en": "Pernod Ricard",
+      "zh": "保乐力加"
+    },
+    "description": {
+      "en": "The definitive Speyside malt, known for its smooth, fruity character.",
+      "zh": "斯佩塞的标志性麦芽，以其顺滑、果香的特点而闻名。"
+    },
+    "website": "https://www.theglenlivet.com",
+    "isActive": true
+  },
+  {
+    "id": "balvenie",
+    "name": {
+      "en": "The Balvenie",
+      "zh": "百富"
+    },
+    "regionId": "speyside",
+    "foundedYear": 1892,
+    "owner": {
+      "en": "William Grant & Sons",
+      "zh": "威廉格兰父子"
+    },
+    "description": {
+      "en": "One of the few distilleries maintaining traditional floor maltings.",
+      "zh": "少数保持传统地板发芽的酒厂之一。"
+    },
+    "website": "https://www.thebalvenie.com",
+    "isActive": true
+  },
+  {
+    "id": "aberlour",
+    "name": {
+      "en": "Aberlour",
+      "zh": "亚伯乐"
+    },
+    "regionId": "speyside",
+    "foundedYear": 1879,
+    "owner": {
+      "en": "Pernod Ricard",
+      "zh": "保乐力加"
+    },
+    "description": {
+      "en": "Known for rich, sherried expressions and double cask maturation.",
+      "zh": "以丰富的雪莉桶威士忌和双桶陈年而闻名。"
+    },
+    "website": "https://www.aberlour.com",
+    "isActive": true
+  },
+  {
+    "id": "glenfarclas",
+    "name": {
+      "en": "Glenfarclas",
+      "zh": "格兰花格"
+    },
+    "regionId": "speyside",
+    "foundedYear": 1836,
+    "owner": {
+      "en": "J. & G. Grant",
+      "zh": "格兰特家族"
+    },
+    "description": {
+      "en": "Family-owned for six generations, famous for sherry cask whiskies.",
+      "zh": "家族拥有六代，以雪莉桶威士忌而闻名。"
+    },
+    "website": "https://www.glenfarclas.com",
+    "isActive": true
+  },
+  {
+    "id": "glendronach",
+    "name": {
+      "en": "GlenDronach",
+      "zh": "格兰多纳"
+    },
+    "regionId": "highlands",
+    "foundedYear": 1826,
+    "owner": {
+      "en": "Brown-Forman",
+      "zh": "布朗福曼"
+    },
+    "description": {
+      "en": "The sherry cask specialist, renowned for rich, deeply sherried whiskies.",
+      "zh": "雪莉桶专家，以浓郁、深度雪莉桶威士忌而闻名。"
+    },
+    "website": "https://www.glendronachdistillery.com",
+    "isActive": true
+  },
+  {
+    "id": "benriach",
+    "name": {
+      "en": "BenRiach",
+      "zh": "本利亚克"
+    },
+    "regionId": "speyside",
+    "foundedYear": 1898,
+    "owner": {
+      "en": "Brown-Forman",
+      "zh": "布朗福曼"
+    },
+    "description": {
+      "en": "Known for innovative cask finishes and both peated and unpeated styles.",
+      "zh": "以创新的桶陈和泥煤、无泥煤风格而闻名。"
+    },
+    "website": "https://www.benriachdistillery.com",
+    "isActive": true
+  },
+  {
+    "id": "mortlach",
+    "name": {
+      "en": "Mortlach",
+      "zh": "慕赫"
+    },
+    "regionId": "speyside",
+    "foundedYear": 1823,
+    "owner": {
+      "en": "Diageo",
+      "zh": "帝亚吉欧"
+    },
+    "description": {
+      "en": "The Beast of Dufftown, famous for its meaty, complex character.",
+      "zh": "达夫镇之兽，以其肉质、复杂的特性而闻名。"
+    },
+    "website": "https://www.malts.com/en-row/distilleries/mortlach",
+    "isActive": true
+  },
+  {
+    "id": "cragganmore",
+    "name": {
+      "en": "Cragganmore",
+      "zh": "克拉格摩尔"
+    },
+    "regionId": "speyside",
+    "foundedYear": 1869,
+    "owner": {
+      "en": "Diageo",
+      "zh": "帝亚吉欧"
+    },
+    "description": {
+      "en": "One of the Classic Malts, known for its complex, aromatic character.",
+      "zh": "经典麦芽之一，以其复杂、芳香的特性而闻名。"
+    },
+    "website": "https://www.malts.com/en-row/distilleries/cragganmore",
+    "isActive": true
+  },
+  {
+    "id": "strathisla",
+    "name": {
+      "en": "Strathisla",
+      "zh": "斯特拉塞拉"
+    },
+    "regionId": "speyside",
+    "foundedYear": 1786,
+    "owner": {
+      "en": "Pernod Ricard",
+      "zh": "保乐力加"
+    },
+    "description": {
+      "en": "The oldest operating distillery in the Highlands, home of Chivas Regal.",
+      "zh": "高地最古老的运营酒厂，芝华士的故乡。"
+    },
+    "website": "https://www.strathisladistillery.com",
+    "isActive": true
+  },
+  {
+    "id": "glen_grant",
+    "name": {
+      "en": "Glen Grant",
+      "zh": "格兰冠"
+    },
+    "regionId": "speyside",
+    "foundedYear": 1840,
+    "owner": {
+      "en": "Campari Group",
+      "zh": "金巴利集团"
+    },
+    "description": {
+      "en": "One of the world's best-selling single malts, known for its light, fruity style.",
+      "zh": "世界上最畅销的单一麦芽之一，以其轻盈、果香的风格而闻名。"
+    },
+    "website": "https://www.glengrant.com",
+    "isActive": true
+  },
+  {
+    "id": "longmorn",
+    "name": {
+      "en": "Longmorn",
+      "zh": "朗摩恩"
+    },
+    "regionId": "speyside",
+    "foundedYear": 1893,
+    "owner": {
+      "en": "Pernod Ricard",
+      "zh": "保乐力加"
+    },
+    "description": {
+      "en": "A distiller's favorite, producing rich, complex whisky often used in blends.",
+      "zh": "蒸馏师的最爱，生产丰富、复杂的威士忌，常用于调和。"
+    },
+    "website": "https://www.longmorn.com",
+    "isActive": true
+  },
+  {
+    "id": "benromach",
+    "name": {
+      "en": "Benromach",
+      "zh": "本诺曼克"
+    },
+    "regionId": "speyside",
+    "foundedYear": 1898,
+    "owner": {
+      "en": "Gordon & MacPhail",
+      "zh": "戈登麦克菲尔"
+    },
+    "description": {
+      "en": "One of Speyside's smallest distilleries, producing hand-crafted whisky.",
+      "zh": "斯佩塞最小的酒厂之一，生产手工威士忌。"
+    },
+    "website": "https://www.benromach.com",
+    "isActive": true
+  },
+  {
+    "id": "tomintoul",
+    "name": {
+      "en": "Tomintoul",
+      "zh": "汤姆因托尔"
+    },
+    "regionId": "speyside",
+    "foundedYear": 1964,
+    "owner": {
+      "en": "Angus Dundee",
+      "zh": "安格斯邓迪"
+    },
+    "description": {
+      "en": "The gentle dram, known for soft, accessible whiskies.",
+      "zh": "温柔的威士忌，以柔和、易饮的特性而闻名。"
+    },
+    "website": "https://www.tomintoul.com",
+    "isActive": true
+  },
+  {
+    "id": "tamdhu",
+    "name": {
+      "en": "Tamdhu",
+      "zh": "坦杜"
+    },
+    "regionId": "speyside",
+    "foundedYear": 1897,
+    "owner": {
+      "en": "Ian Macleod Distillers",
+      "zh": "伊恩麦克劳德"
+    },
+    "description": {
+      "en": "100% sherry cask matured whisky with traditional Saladin maltings.",
+      "zh": "100%雪莉桶陈年威士忌，保留传统萨拉丁发芽。"
+    },
+    "website": "https://www.tamdhu.com",
+    "isActive": true
+  },
+  {
+    "id": "craigellachie",
+    "name": {
+      "en": "Craigellachie",
+      "zh": "克拉格拉奇"
+    },
+    "regionId": "speyside",
+    "foundedYear": 1891,
+    "owner": {
+      "en": "Bacardi",
+      "zh": "百加得"
+    },
+    "description": {
+      "en": "The bad boy of Speyside, known for its sulfury, meaty character.",
+      "zh": "斯佩塞的坏小子，以其硫磺、肉质特性而闻名。"
+    },
+    "website": "https://www.craigellachie.com",
+    "isActive": true
+  },
+  {
+    "id": "glen_moray",
+    "name": {
+      "en": "Glen Moray",
+      "zh": "格兰莫雷"
+    },
+    "regionId": "speyside",
+    "foundedYear": 1897,
+    "owner": {
+      "en": "La Martiniquaise",
+      "zh": "拉马丁尼奎斯"
+    },
+    "description": {
+      "en": "Affordable Speyside whisky with excellent quality-to-value ratio.",
+      "zh": "价格实惠的斯佩塞威士忌，性价比极高。"
+    },
+    "website": "https://www.glenmoray.com",
+    "isActive": true
+  },
+  {
+    "id": "cardhu",
+    "name": {
+      "en": "Cardhu",
+      "zh": "卡杜"
+    },
+    "regionId": "speyside",
+    "foundedYear": 1824,
+    "owner": {
+      "en": "Diageo",
+      "zh": "帝亚吉欧"
+    },
+    "description": {
+      "en": "The golden heart of Johnnie Walker, founded by Helen Cumming.",
+      "zh": "尊尼获加的黄金心脏，由海伦·卡明创立。"
+    },
+    "website": "https://www.malts.com/en-row/distilleries/cardhu",
+    "isActive": true
+  },
+  {
+    "id": "knockando",
+    "name": {
+      "en": "Knockando",
+      "zh": "诺康度"
+    },
+    "regionId": "speyside",
+    "foundedYear": 1898,
+    "owner": {
+      "en": "Diageo",
+      "zh": "帝亚吉欧"
+    },
+    "description": {
+      "en": "Known for vintage-dated releases showcasing each year's character.",
+      "zh": "以年份标注发布而闻名，展示每年的特性。"
+    },
+    "website": "https://www.knockando.com",
+    "isActive": true
+  },
+  {
+    "id": "glenmorangie",
+    "name": {
+      "en": "Glenmorangie",
+      "zh": "格兰杰"
+    },
+    "regionId": "highlands",
+    "foundedYear": 1843,
+    "owner": {
+      "en": "LVMH",
+      "zh": "路威酩轩"
+    },
+    "description": {
+      "en": "Famous for its tall stills - the tallest in Scotland - producing elegant whisky.",
+      "zh": "以其高塔蒸馏器而闻名——苏格兰最高的——生产优雅的威士忌。"
+    },
+    "website": "https://www.glenmorangie.com",
+    "isActive": true
+  },
+  {
+    "id": "dalmore",
+    "name": {
+      "en": "Dalmore",
+      "zh": "大摩"
+    },
+    "regionId": "highlands",
+    "foundedYear": 1839,
+    "owner": {
+      "en": "Whyte & Mackay",
+      "zh": "怀特麦凯"
+    },
+    "description": {
+      "en": "Known for exceptional sherry cask maturation and the iconic stag emblem.",
+      "zh": "以卓越的雪莉桶陈年和标志性的雄鹿徽章而闻名。"
+    },
+    "website": "https://www.thedalmore.com",
+    "isActive": true
+  },
+  {
+    "id": "oban",
+    "name": {
+      "en": "Oban",
+      "zh": "欧本"
+    },
+    "regionId": "highlands",
+    "foundedYear": 1794,
+    "owner": {
+      "en": "Diageo",
+      "zh": "帝亚吉欧"
+    },
+    "description": {
+      "en": "One of Scotland's oldest distilleries, bridging Highland and Island styles.",
+      "zh": "苏格兰最古老的酒厂之一，连接高地和岛屿风格。"
+    },
+    "website": "https://www.malts.com/en-row/distilleries/oban",
+    "isActive": true
+  },
+  {
+    "id": "glen_garioch",
+    "name": {
+      "en": "Glen Garioch",
+      "zh": "格兰盖瑞"
+    },
+    "regionId": "highlands",
+    "foundedYear": 1797,
+    "owner": {
+      "en": "Beam Suntory",
+      "zh": "宾三得利"
+    },
+    "description": {
+      "en": "One of Scotland's oldest distilleries, producing rich Highland malts in Aberdeenshire.",
+      "zh": "苏格兰最古老的酒厂之一，在阿伯丁郡生产丰富的高地麦芽。"
+    },
+    "website": "https://www.glengarioch.com",
+    "isActive": true
+  },
+  {
+    "id": "clynelish",
+    "name": {
+      "en": "Clynelish",
+      "zh": "克里尼利基"
+    },
+    "regionId": "highlands",
+    "foundedYear": 1967,
+    "owner": {
+      "en": "Diageo",
+      "zh": "帝亚吉欧"
+    },
+    "description": {
+      "en": "Known for its distinctive waxy, coastal character from the Northern Highlands.",
+      "zh": "以其独特的蜡质、海岸特性而闻名，来自北部高地。"
+    },
+    "website": "https://www.malts.com/en-row/distilleries/clynelish",
+    "isActive": true
+  },
+  {
+    "id": "dalwhinnie",
+    "name": {
+      "en": "Dalwhinnie",
+      "zh": "达尔维尼"
+    },
+    "regionId": "highlands",
+    "foundedYear": 1897,
+    "owner": {
+      "en": "Diageo",
+      "zh": "帝亚吉欧"
+    },
+    "description": {
+      "en": "Scotland's highest distillery at 1,164 feet, producing gentle Highland malt.",
+      "zh": "苏格兰最高的酒厂，海拔1164英尺，生产温和的高地麦芽。"
+    },
+    "website": "https://www.malts.com/en-row/distilleries/dalwhinnie",
+    "isActive": true
+  },
+  {
+    "id": "blair_athol",
+    "name": {
+      "en": "Blair Athol",
+      "zh": "布莱尔阿苏"
+    },
+    "regionId": "highlands",
+    "foundedYear": 1798,
+    "owner": {
+      "en": "Diageo",
+      "zh": "帝亚吉欧"
+    },
+    "description": {
+      "en": "One of Scotland's oldest working distilleries, the home of Bell's blended whisky.",
+      "zh": "苏格兰最古老的运营酒厂之一，贝尔调和威士忌的故乡。"
+    },
+    "website": "https://www.malts.com/en-row/distilleries/blair-athol",
+    "isActive": true
+  },
+  {
+    "id": "edradour",
+    "name": {
+      "en": "Edradour",
+      "zh": "艾德多尔"
+    },
+    "regionId": "highlands",
+    "foundedYear": 1825,
+    "owner": {
+      "en": "Signatory Vintage",
+      "zh": "签名年份"
+    },
+    "description": {
+      "en": "Scotland's smallest traditional distillery, hand-crafting whisky in tiny batches.",
+      "zh": "苏格兰最小的传统酒厂，手工制作小批量威士忌。"
+    },
+    "website": "https://www.edradour.com",
+    "isActive": true
+  },
+  {
+    "id": "ben_nevis",
+    "name": {
+      "en": "Ben Nevis",
+      "zh": "本尼维斯"
+    },
+    "regionId": "highlands",
+    "foundedYear": 1825,
+    "owner": {
+      "en": "Nikka",
+      "zh": "日果"
+    },
+    "description": {
+      "en": "Named after Britain's highest mountain, owned by Japanese Nikka.",
+      "zh": "以英国最高山命名，由日本Nikka拥有。"
+    },
+    "website": "https://www.bennevisdistillery.com",
+    "isActive": true
+  },
+  {
+    "id": "glengoyne",
+    "name": {
+      "en": "Glengoyne",
+      "zh": "格兰哥尼"
+    },
+    "regionId": "highlands",
+    "foundedYear": 1833,
+    "owner": {
+      "en": "Ian Macleod Distillers",
+      "zh": "伊恩麦克劳德"
+    },
+    "description": {
+      "en": "Producing whisky without peat since 1833, using sherry casks exclusively.",
+      "zh": "自1833年以来生产无泥煤威士忌，专门使用雪莉桶。"
+    },
+    "website": "https://www.glengoyne.com",
+    "isActive": true
+  },
+  {
+    "id": "deanston",
+    "name": {
+      "en": "Deanston",
+      "zh": "丁斯顿"
+    },
+    "regionId": "highlands",
+    "foundedYear": 1965,
+    "owner": {
+      "en": "Distell",
+      "zh": "迪斯特尔"
+    },
+    "description": {
+      "en": "A converted cotton mill producing organic Highland whisky.",
+      "zh": "改建的棉纺厂，生产有机高地威士忌。"
+    },
+    "website": "https://www.deanstondistillery.com",
+    "isActive": true
+  },
+  {
+    "id": "old_pulteney",
+    "name": {
+      "en": "Old Pulteney",
+      "zh": "富特尼"
+    },
+    "regionId": "highlands",
+    "foundedYear": 1826,
+    "owner": {
+      "en": "Bacardi",
+      "zh": "百加得"
+    },
+    "description": {
+      "en": "The maritime malt from Wick, Scotland's most northerly mainland town.",
+      "zh": "来自威克的海洋麦芽，苏格兰大陆最北的城镇。"
+    },
+    "website": "https://www.oldpulteney.com",
+    "isActive": true
+  },
+  {
+    "id": "balblair",
+    "name": {
+      "en": "Balblair",
+      "zh": "巴布莱尔"
+    },
+    "regionId": "highlands",
+    "foundedYear": 1790,
+    "owner": {
+      "en": "Bacardi",
+      "zh": "百加得"
+    },
+    "description": {
+      "en": "One of Scotland's oldest distilleries, known for vintage releases.",
+      "zh": "苏格兰最古老的酒厂之一，以年份发布而闻名。"
+    },
+    "website": "https://www.balblair.com",
+    "isActive": true
+  },
+  {
+    "id": "tomatin",
+    "name": {
+      "en": "Tomatin",
+      "zh": "汤玛丁"
+    },
+    "regionId": "highlands",
+    "foundedYear": 1897,
+    "owner": {
+      "en": "Takara Shuzo",
+      "zh": "宝酒造"
+    },
+    "description": {
+      "en": "Once Scotland's largest distillery, now Japanese-owned.",
+      "zh": "曾经是苏格兰最大的酒厂，现在由日本人拥有。"
+    },
+    "website": "https://www.tomatin.com",
+    "isActive": true
+  },
+  {
+    "id": "royal_brackla",
+    "name": {
+      "en": "Royal Brackla",
+      "zh": "皇家布莱克拉"
+    },
+    "regionId": "highlands",
+    "foundedYear": 1812,
+    "owner": {
+      "en": "Bacardi",
+      "zh": "百加得"
+    },
+    "description": {
+      "en": "The first whisky to be granted a Royal Warrant by King William IV.",
+      "zh": "第一个获得威廉四世国王皇家认证的威士忌。"
+    },
+    "website": "https://www.royalbrackla.com",
+    "isActive": true
+  },
+  {
+    "id": "glen_ord",
+    "name": {
+      "en": "Glen Ord",
+      "zh": "格兰奥德"
+    },
+    "regionId": "highlands",
+    "foundedYear": 1838,
+    "owner": {
+      "en": "Diageo",
+      "zh": "帝亚吉欧"
+    },
+    "description": {
+      "en": "The only remaining distillery on the Black Isle, with its own maltings.",
+      "zh": "黑岛上唯一剩余的酒厂，拥有自己的麦芽厂。"
+    },
+    "website": "https://www.malts.com/en-row/distilleries/glen-ord",
+    "isActive": true
+  },
+  {
+    "id": "ardmore",
+    "name": {
+      "en": "Ardmore",
+      "zh": "阿德莫尔"
+    },
+    "regionId": "highlands",
+    "foundedYear": 1898,
+    "owner": {
+      "en": "Beam Suntory",
+      "zh": "宾三得利"
+    },
+    "description": {
+      "en": "Highland's peated distillery, the heart of Teacher's blended whisky.",
+      "zh": "高地的泥煤酒厂，帝师调和威士忌的核心。"
+    },
+    "website": "https://www.ardmorewhisky.com",
+    "isActive": true
+  },
+  {
+    "id": "aberfeldy",
+    "name": {
+      "en": "Aberfeldy",
+      "zh": "艾柏迪"
+    },
+    "regionId": "highlands",
+    "foundedYear": 1896,
+    "owner": {
+      "en": "Bacardi",
+      "zh": "百加得"
+    },
+    "description": {
+      "en": "The Golden Dram, heart of Dewar's blended Scotch whisky.",
+      "zh": "黄金威士忌，帝王调和苏格兰威士忌的核心。"
+    },
+    "website": "https://www.aberfeldy.com",
+    "isActive": true
+  },
+  {
+    "id": "glenturret",
+    "name": {
+      "en": "Glenturret",
+      "zh": "格兰杜雷特"
+    },
+    "regionId": "highlands",
+    "foundedYear": 1775,
+    "owner": {
+      "en": "Lalique Group",
+      "zh": "Lalique Group"
+    },
+    "description": {
+      "en": "Scotland's oldest working distillery, home of The Famous Grouse.",
+      "zh": "苏格兰最古老的运营酒厂，著名松鸡的故乡。"
+    },
+    "website": "https://www.theglenturret.com",
+    "isActive": true
+  },
+  {
+    "id": "fettercairn",
+    "name": {
+      "en": "Fettercairn",
+      "zh": "费特凯恩"
+    },
+    "regionId": "highlands",
+    "foundedYear": 1824,
+    "owner": {
+      "en": "Whyte & Mackay",
+      "zh": "怀特麦凯"
+    },
+    "description": {
+      "en": "Uses unique copper cooling system creating tropical fruit notes.",
+      "zh": "使用独特的铜冷却系统创造热带水果味。"
+    },
+    "website": "https://www.fettercairnwhisky.com",
+    "isActive": true
+  },
+  {
+    "id": "lagavulin",
+    "name": {
+      "en": "Lagavulin",
+      "zh": "拉加维林"
+    },
+    "regionId": "islay",
+    "foundedYear": 1816,
+    "owner": {
+      "en": "Diageo",
+      "zh": "帝亚吉欧"
+    },
+    "description": {
+      "en": "Produces intensely peaty, complex whiskies beloved by peat enthusiasts.",
+      "zh": "生产浓郁泥煤、复杂的威士忌，深受泥煤爱好者喜爱。"
+    },
+    "website": "https://www.malts.com/en-row/distilleries/lagavulin",
+    "isActive": true
+  },
+  {
+    "id": "laphroaig",
+    "name": {
+      "en": "Laphroaig",
+      "zh": "拉弗格"
+    },
+    "regionId": "islay",
+    "foundedYear": 1815,
+    "owner": {
+      "en": "Beam Suntory",
+      "zh": "宾三得利"
+    },
+    "description": {
+      "en": "Known for its distinctive medicinal, peaty character with maritime notes.",
+      "zh": "以其独特的药草、泥煤特性和海洋风味而闻名。"
+    },
+    "website": "https://www.laphroaig.com",
+    "isActive": true
+  },
+  {
+    "id": "ardbeg",
+    "name": {
+      "en": "Ardbeg",
+      "zh": "阿贝"
+    },
+    "regionId": "islay",
+    "foundedYear": 1815,
+    "owner": {
+      "en": "LVMH",
+      "zh": "路威酩轩"
+    },
+    "description": {
+      "en": "Produces some of the peatiest whiskies in Scotland with cult following.",
+      "zh": "生产苏格兰最泥煤的威士忌之一，拥有狂热追随者。"
+    },
+    "website": "https://www.ardbeg.com",
+    "isActive": true
+  },
+  {
+    "id": "caol_ila",
+    "name": {
+      "en": "Caol Ila",
+      "zh": "卡尔里拉"
+    },
+    "regionId": "islay",
+    "foundedYear": 1846,
+    "owner": {
+      "en": "Diageo",
+      "zh": "帝亚吉欧"
+    },
+    "description": {
+      "en": "Islay's largest distillery, producing smoky yet elegant whiskies.",
+      "zh": "艾雷岛最大的酒厂，生产烟熏但优雅的威士忌。"
+    },
+    "website": "https://www.malts.com/en-row/distilleries/caol-ila",
+    "isActive": true
+  },
+  {
+    "id": "bowmore",
+    "name": {
+      "en": "Bowmore",
+      "zh": "波摩"
+    },
+    "regionId": "islay",
+    "foundedYear": 1779,
+    "owner": {
+      "en": "Beam Suntory",
+      "zh": "宾三得利"
+    },
+    "description": {
+      "en": "One of the oldest Islay distilleries, known for balanced peated whiskies.",
+      "zh": "艾雷岛最古老的酒厂之一，以平衡的泥煤威士忌而闻名。"
+    },
+    "website": "https://www.bowmore.com",
+    "isActive": true
+  },
+  {
+    "id": "bruichladdich",
+    "name": {
+      "en": "Bruichladdich",
+      "zh": "布莱迪"
+    },
+    "regionId": "islay",
+    "foundedYear": 1881,
+    "owner": {
+      "en": "Rémy Cointreau",
+      "zh": "人头马君度"
+    },
+    "description": {
+      "en": "Progressive Hebridean distillery known for innovation and terroir.",
+      "zh": "进步的赫布里底酒厂，以创新和风土而闻名。"
+    },
+    "website": "https://www.bruichladdich.com",
+    "isActive": true
+  },
+  {
+    "id": "bunnahabhain",
+    "name": {
+      "en": "Bunnahabhain",
+      "zh": "布纳哈本"
+    },
+    "regionId": "islay",
+    "foundedYear": 1881,
+    "owner": {
+      "en": "Distell",
+      "zh": "迪斯特尔"
+    },
+    "description": {
+      "en": "The gentlest of Islay malts, known for unpeated and lightly peated styles.",
+      "zh": "艾雷岛最温和的麦芽，以无泥煤和轻度泥煤风格而闻名。"
+    },
+    "website": "https://www.bunnahabhain.com",
+    "isActive": true
+  },
+  {
+    "id": "kilchoman",
+    "name": {
+      "en": "Kilchoman",
+      "zh": "齐侯门"
+    },
+    "regionId": "islay",
+    "foundedYear": 2005,
+    "owner": {
+      "en": "Independent",
+      "zh": "独立"
+    },
+    "description": {
+      "en": "Islay's farm distillery, growing their own barley and malting on-site.",
+      "zh": "艾雷岛的农场酒厂，种植自己的大麦并现场麦芽。"
+    },
+    "website": "https://www.kilchomandistillery.com",
+    "isActive": true
+  },
+  {
+    "id": "ardnahoe",
+    "name": {
+      "en": "Ardnahoe",
+      "zh": "阿德纳霍"
+    },
+    "regionId": "islay",
+    "foundedYear": 2018,
+    "owner": {
+      "en": "Hunter Laing",
+      "zh": "亨特莱恩"
+    },
+    "description": {
+      "en": "Islay's newest distillery, built with traditional methods and stunning views.",
+      "zh": "艾雷岛最新的酒厂，采用传统方法建造，景色壮观。"
+    },
+    "website": "https://www.ardnahoedistillery.com",
+    "isActive": true
+  },
+  {
+    "id": "highland_park",
+    "name": {
+      "en": "Highland Park",
+      "zh": "高原骑士"
+    },
+    "regionId": "islands",
+    "foundedYear": 1798,
+    "owner": {
+      "en": "Edrington Group",
+      "zh": "爱丁顿集团"
+    },
+    "description": {
+      "en": "Orkney's finest, known for its perfect balance of smoke and sweetness.",
+      "zh": "奥克尼的最佳威士忌，以烟熏和甜味的完美平衡而闻名。"
+    },
+    "website": "https://www.highlandparkwhisky.com",
+    "isActive": true
+  },
+  {
+    "id": "talisker",
+    "name": {
+      "en": "Talisker",
+      "zh": "泰斯卡"
+    },
+    "regionId": "islands",
+    "foundedYear": 1830,
+    "owner": {
+      "en": "Diageo",
+      "zh": "帝亚吉欧"
+    },
+    "description": {
+      "en": "The only distillery on Skye, known for its powerful maritime character.",
+      "zh": "斯凯岛上唯一的酒厂，以其强大的海洋特性而闻名。"
+    },
+    "website": "https://www.malts.com/en-row/distilleries/talisker",
+    "isActive": true
+  },
+  {
+    "id": "isle_of_jura",
+    "name": {
+      "en": "Isle of Jura",
+      "zh": "朱拉岛"
+    },
+    "regionId": "islands",
+    "foundedYear": 1810,
+    "owner": {
+      "en": "Whyte & Mackay",
+      "zh": "怀特麦凯"
+    },
+    "description": {
+      "en": "The only distillery on Jura, producing both unpeated and peated styles.",
+      "zh": "朱拉岛上唯一的酒厂，生产无泥煤和泥煤风格。"
+    },
+    "website": "https://www.jurawhisky.com",
+    "isActive": true
+  },
+  {
+    "id": "tobermory",
+    "name": {
+      "en": "Tobermory",
+      "zh": "托本莫瑞"
+    },
+    "regionId": "islands",
+    "foundedYear": 1798,
+    "owner": {
+      "en": "Distell",
+      "zh": "迪斯特尔"
+    },
+    "description": {
+      "en": "Mull's only distillery, producing both unpeated Tobermory and peated Ledaig.",
+      "zh": "马尔岛唯一的酒厂，生产无泥煤的Tobermory和泥煤的Ledaig。"
+    },
+    "website": "https://www.tobermorydistillery.com",
+    "isActive": true
+  },
+  {
+    "id": "arran",
+    "name": {
+      "en": "Isle of Arran",
+      "zh": "阿伦岛"
+    },
+    "regionId": "islands",
+    "foundedYear": 1995,
+    "owner": {
+      "en": "Isle of Arran Distillers",
+      "zh": "阿伦岛酒厂"
+    },
+    "description": {
+      "en": "The first legal distillery on Arran in 150 years, producing unpeated whisky.",
+      "zh": "150年来阿伦岛上的第一家合法酒厂，生产无泥煤威士忌。"
+    },
+    "website": "https://www.arranwhisky.com",
+    "isActive": true
+  },
+  {
+    "id": "scapa",
+    "name": {
+      "en": "Scapa",
+      "zh": "斯卡帕"
+    },
+    "regionId": "islands",
+    "foundedYear": 1885,
+    "owner": {
+      "en": "Pernod Ricard",
+      "zh": "保乐力加"
+    },
+    "description": {
+      "en": "Orkney's other distillery, producing smooth, honey-noted whisky.",
+      "zh": "奥克尼的另一家酒厂，生产顺滑、蜂蜜味的威士忌。"
+    },
+    "website": "https://www.scapamalt.com",
+    "isActive": true
+  },
+  {
+    "id": "springbank",
+    "name": {
+      "en": "Springbank",
+      "zh": "云顶"
+    },
+    "regionId": "campbeltown",
+    "foundedYear": 1828,
+    "owner": {
+      "en": "J&A Mitchell",
+      "zh": "米切尔家族"
+    },
+    "description": {
+      "en": "The only distillery in Scotland to carry out 100% of production on-site.",
+      "zh": "苏格兰唯一在现场完成100%生产的酒厂。"
+    },
+    "website": "https://www.springbank.scot",
+    "isActive": true
+  },
+  {
+    "id": "glen_scotia",
+    "name": {
+      "en": "Glen Scotia",
+      "zh": "格兰帝"
+    },
+    "regionId": "campbeltown",
+    "foundedYear": 1832,
+    "owner": {
+      "en": "Loch Lomond Group",
+      "zh": "洛蒙德湖集团"
+    },
+    "description": {
+      "en": "One of only three remaining Campbeltown distilleries with briny character.",
+      "zh": "仅存的三家坎贝尔镇酒厂之一，具有咸味特性。"
+    },
+    "website": "https://www.glenscotia.com",
+    "isActive": true
+  },
+  {
+    "id": "glengyle",
+    "name": {
+      "en": "Glengyle (Kilkerran)",
+      "zh": "格兰盖尔(奇克伦)"
+    },
+    "regionId": "campbeltown",
+    "foundedYear": 2004,
+    "owner": {
+      "en": "J&A Mitchell",
+      "zh": "米切尔家族"
+    },
+    "description": {
+      "en": "Revived Campbeltown distillery producing Kilkerran single malt.",
+      "zh": "复兴的坎贝尔镇酒厂，生产奇克伦单一麦芽。"
+    },
+    "website": "https://www.kilkerran.scot",
+    "isActive": true
+  },
+  {
+    "id": "auchentoshan",
+    "name": {
+      "en": "Auchentoshan",
+      "zh": "欧肯特轩"
+    },
+    "regionId": "lowlands",
+    "foundedYear": 1823,
+    "owner": {
+      "en": "Beam Suntory",
+      "zh": "宾三得利"
+    },
+    "description": {
+      "en": "Scotland's only distillery to triple distill every drop.",
+      "zh": "苏格兰唯一对每一滴都进行三次蒸馏的酒厂。"
+    },
+    "website": "https://www.auchentoshan.com",
+    "isActive": true
+  },
+  {
+    "id": "glenkinchie",
+    "name": {
+      "en": "Glenkinchie",
+      "zh": "格兰昆奇"
+    },
+    "regionId": "lowlands",
+    "foundedYear": 1825,
+    "owner": {
+      "en": "Diageo",
+      "zh": "帝亚吉欧"
+    },
+    "description": {
+      "en": "The Edinburgh Malt, known for light, floral character.",
+      "zh": "爱丁堡麦芽，以轻盈、花香特性而闻名。"
+    },
+    "website": "https://www.malts.com/en-row/distilleries/glenkinchie",
+    "isActive": true
+  },
+  {
+    "id": "bladnoch",
+    "name": {
+      "en": "Bladnoch",
+      "zh": "布拉德诺克"
+    },
+    "regionId": "lowlands",
+    "foundedYear": 1817,
+    "owner": {
+      "en": "David Prior",
+      "zh": "大卫·普赖尔"
+    },
+    "description": {
+      "en": "Scotland's most southerly distillery, revived and producing again.",
+      "zh": "苏格兰最南端的酒厂，已复兴并再次生产。"
+    },
+    "website": "https://www.bladnoch.com",
+    "isActive": true
+  },
+  {
+    "id": "ailsa_bay",
+    "name": {
+      "en": "Ailsa Bay",
+      "zh": "艾尔莎湾"
+    },
+    "regionId": "lowlands",
+    "foundedYear": 2007,
+    "owner": {
+      "en": "William Grant & Sons",
+      "zh": "威廉格兰父子"
+    },
+    "description": {
+      "en": "Modern Lowland distillery experimenting with peated styles.",
+      "zh": "现代低地酒厂，尝试泥煤风格。"
+    },
+    "website": "https://www.ailsabay.com",
+    "isActive": true
+  },
+  {
+    "id": "midleton",
+    "name": {
+      "en": "Midleton",
+      "zh": "米德尔顿"
+    },
+    "regionId": "munster",
+    "foundedYear": 1975,
+    "owner": {
+      "en": "Pernod Ricard",
+      "zh": "保乐力加"
+    },
+    "description": {
+      "en": "Ireland's largest distillery, producing Jameson, Redbreast, and more.",
+      "zh": "爱尔兰最大的酒厂，生产尊美醇、Redbreast等。"
+    },
+    "website": "https://www.midletonveryrare.com",
+    "isActive": true
+  },
+  {
+    "id": "bushmills",
+    "name": {
+      "en": "Bushmills",
+      "zh": "布什米尔斯"
+    },
+    "regionId": "antrim",
+    "foundedYear": 1608,
+    "owner": {
+      "en": "Proximo Spirits",
+      "zh": "普罗西莫烈酒"
+    },
+    "description": {
+      "en": "The world's oldest licensed whiskey distillery.",
+      "zh": "世界上最古老的持牌威士忌酒厂。"
+    },
+    "website": "https://www.bushmills.com",
+    "isActive": true
+  },
+  {
+    "id": "teeling",
+    "name": {
+      "en": "Teeling",
+      "zh": "帝霖"
+    },
+    "regionId": "dublin",
+    "foundedYear": 2015,
+    "owner": {
+      "en": "Teeling Whiskey Company",
+      "zh": "帝霖威士忌公司"
+    },
+    "description": {
+      "en": "Dublin's first new distillery in over 125 years.",
+      "zh": "125年来都柏林第一家新酒厂。"
+    },
+    "website": "https://www.teelingwhiskey.com",
+    "isActive": true
+  },
+  {
+    "id": "yamazaki",
+    "name": {
+      "en": "Yamazaki",
+      "zh": "山崎"
+    },
+    "regionId": "honshu",
+    "foundedYear": 1923,
+    "owner": {
+      "en": "Suntory",
+      "zh": "三得利"
+    },
+    "description": {
+      "en": "Japan's first whisky distillery, founded by Shinjiro Torii.",
+      "zh": "日本第一家威士忌酒厂，由鸟井信治郎创立。"
+    },
+    "website": "https://www.suntory.com/factory/yamazaki",
+    "isActive": true
+  },
+  {
+    "id": "hakushu",
+    "name": {
+      "en": "Hakushu",
+      "zh": "白州"
+    },
+    "regionId": "honshu",
+    "foundedYear": 1973,
+    "owner": {
+      "en": "Suntory",
+      "zh": "三得利"
+    },
+    "description": {
+      "en": "Suntory's forest distillery, known for fresh, herbal whiskies.",
+      "zh": "三得利的森林酒厂，以清新、草本威士忌而闻名。"
+    },
+    "website": "https://www.suntory.com/factory/hakushu",
+    "isActive": true
+  },
+  {
+    "id": "yoichi",
+    "name": {
+      "en": "Yoichi",
+      "zh": "余市"
+    },
+    "regionId": "hokkaido",
+    "foundedYear": 1934,
+    "owner": {
+      "en": "Nikka",
+      "zh": "日果"
+    },
+    "description": {
+      "en": "Founded by Masataka Taketsuru, the father of Japanese whisky.",
+      "zh": "由日本威士忌之父竹鹤政孝创立。"
+    },
+    "website": "https://www.nikka.com/eng/distilleries/yoichi",
+    "isActive": true
+  },
+  {
+    "id": "miyagikyo",
+    "name": {
+      "en": "Miyagikyo",
+      "zh": "宫城峡"
+    },
+    "regionId": "honshu",
+    "foundedYear": 1969,
+    "owner": {
+      "en": "Nikka",
+      "zh": "日果"
+    },
+    "description": {
+      "en": "Nikka's second distillery, known for elegant, fruity character.",
+      "zh": "Nikka的第二家酒厂，以优雅、果香特性而闻名。"
+    },
+    "website": "https://www.nikka.com/eng/distilleries/miyagikyo",
+    "isActive": true
+  },
+  {
+    "id": "chichibu",
+    "name": {
+      "en": "Chichibu",
+      "zh": "秩父"
+    },
+    "regionId": "honshu",
+    "foundedYear": 2008,
+    "owner": {
+      "en": "Venture Whisky",
+      "zh": "风土威士忌"
+    },
+    "description": {
+      "en": "Small Japanese distillery founded by Ichiro Akuto, highly sought after.",
+      "zh": "由肥土伊知郎创立的小型日本酒厂，备受追捧。"
+    },
+    "website": "https://www.facebook.com/ChichibuDistillery",
+    "isActive": true
+  },
+  {
+    "id": "buffalo_trace",
+    "name": {
+      "en": "Buffalo Trace",
+      "zh": "水牛足迹"
+    },
+    "regionId": "kentucky",
+    "foundedYear": 1775,
+    "owner": {
+      "en": "Sazerac",
+      "zh": "萨泽拉克"
+    },
+    "description": {
+      "en": "One of America's oldest continuously operating distilleries.",
+      "zh": "美国最古老的连续运营酒厂之一。"
+    },
+    "website": "https://www.buffalotracedistillery.com",
+    "isActive": true
+  },
+  {
+    "id": "makers_mark",
+    "name": {
+      "en": "Maker's Mark",
+      "zh": "美格"
+    },
+    "regionId": "kentucky",
+    "foundedYear": 1953,
+    "owner": {
+      "en": "Beam Suntory",
+      "zh": "宾三得利"
+    },
+    "description": {
+      "en": "Famous for its red wax seal and wheated bourbon recipe.",
+      "zh": "以其红蜡封和小麦波本配方而闻名。"
+    },
+    "website": "https://www.makersmark.com",
+    "isActive": true
+  },
+  {
+    "id": "woodford_reserve",
+    "name": {
+      "en": "Woodford Reserve",
+      "zh": "伍德福德珍藏"
+    },
+    "regionId": "kentucky",
+    "foundedYear": 1812,
+    "owner": {
+      "en": "Brown-Forman",
+      "zh": "布朗福曼"
+    },
+    "description": {
+      "en": "One of Kentucky's oldest and smallest distilleries.",
+      "zh": "肯塔基州最古老和最小的酒厂之一。"
+    },
+    "website": "https://www.woodfordreserve.com",
+    "isActive": true
+  },
+  {
+    "id": "wild_turkey",
+    "name": {
+      "en": "Wild Turkey",
+      "zh": "野火鸡"
+    },
+    "regionId": "kentucky",
+    "foundedYear": 1869,
+    "owner": {
+      "en": "Campari Group",
+      "zh": "金巴利集团"
+    },
+    "description": {
+      "en": "Known for bold, flavorful bourbon bottled at higher proofs.",
+      "zh": "以高酒精度装瓶的大胆、风味浓郁的波本而闻名。"
+    },
+    "website": "https://www.wildturkeybourbon.com",
+    "isActive": true
+  },
+  {
+    "id": "four_roses",
+    "name": {
+      "en": "Four Roses",
+      "zh": "四玫瑰"
+    },
+    "regionId": "kentucky",
+    "foundedYear": 1888,
+    "owner": {
+      "en": "Kirin",
+      "zh": "麒麟"
+    },
+    "description": {
+      "en": "Uses 10 distinct bourbon recipes for its range.",
+      "zh": "使用10种不同的波本配方。"
+    },
+    "website": "https://www.fourrosesbourbon.com",
+    "isActive": true
+  },
+  {
+    "id": "heaven_hill",
+    "name": {
+      "en": "Heaven Hill",
+      "zh": "天堂山"
+    },
+    "regionId": "kentucky",
+    "foundedYear": 1935,
+    "owner": {
+      "en": "Heaven Hill Brands",
+      "zh": "天堂山品牌"
+    },
+    "description": {
+      "en": "America's largest family-owned distillery.",
+      "zh": "美国最大的家族拥有酒厂。"
+    },
+    "website": "https://www.heavenhilldistillery.com",
+    "isActive": true
+  },
+  {
+    "id": "jim_beam",
+    "name": {
+      "en": "Jim Beam",
+      "zh": "金宾"
+    },
+    "regionId": "kentucky",
+    "foundedYear": 1795,
+    "owner": {
+      "en": "Beam Suntory",
+      "zh": "宾三得利"
+    },
+    "description": {
+      "en": "The world's best-selling bourbon, family-crafted for over 200 years.",
+      "zh": "世界上最畅销的波本，家族制作超过200年。"
+    },
+    "website": "https://www.jimbeam.com",
+    "isActive": true
+  },
+  {
+    "id": "pappy_van_winkle",
+    "name": {
+      "en": "Old Rip Van Winkle (Pappy)",
+      "zh": "老瑞凡温克尔(帕皮)"
+    },
+    "regionId": "kentucky",
+    "foundedYear": 1893,
+    "owner": {
+      "en": "Sazerac (contract)",
+      "zh": "萨泽拉克(代工)"
+    },
+    "description": {
+      "en": "The most sought-after bourbon in the world, produced at Buffalo Trace.",
+      "zh": "世界上最受追捧的波本，在水牛足迹生产。"
+    },
+    "website": "https://www.oldripvanwinkle.com",
+    "isActive": true
+  },
+  {
+    "id": "weller",
+    "name": {
+      "en": "W.L. Weller",
+      "zh": "威勒"
+    },
+    "regionId": "kentucky",
+    "foundedYear": 1849,
+    "owner": {
+      "en": "Sazerac",
+      "zh": "萨泽拉克"
+    },
+    "description": {
+      "en": "Wheated bourbon sharing DNA with Pappy Van Winkle.",
+      "zh": "小麦波本与帕皮范温克尔共享DNA。"
+    },
+    "website": "https://www.buffalotracedistillery.com",
+    "isActive": true
+  },
+  {
+    "id": "eagle_rare",
+    "name": {
+      "en": "Eagle Rare",
+      "zh": "老鹰稀有"
+    },
+    "regionId": "kentucky",
+    "foundedYear": 1975,
+    "owner": {
+      "en": "Sazerac",
+      "zh": "萨泽拉克"
+    },
+    "description": {
+      "en": "Single barrel bourbon aged 10 years, from Buffalo Trace.",
+      "zh": "单桶波本陈年10年，来自水牛足迹。"
+    },
+    "website": "https://www.eaglerare.com",
+    "isActive": true
+  },
+  {
+    "id": "jack_daniels",
+    "name": {
+      "en": "Jack Daniel's",
+      "zh": "杰克丹尼"
+    },
+    "regionId": "tennessee",
+    "foundedYear": 1866,
+    "owner": {
+      "en": "Brown-Forman",
+      "zh": "布朗福曼"
+    },
+    "description": {
+      "en": "America's best-selling whiskey, made with charcoal mellowing.",
+      "zh": "美国最畅销的威士忌，采用木炭过滤工艺。"
+    },
+    "website": "https://www.jackdaniels.com",
+    "isActive": true
+  },
+  {
+    "id": "george_dickel",
+    "name": {
+      "en": "George Dickel",
+      "zh": "乔治迪克"
+    },
+    "regionId": "tennessee",
+    "foundedYear": 1870,
+    "owner": {
+      "en": "Diageo",
+      "zh": "帝亚吉欧"
+    },
+    "description": {
+      "en": "Tennessee's other famous whisky, known for its smoothness.",
+      "zh": "田纳西州的另一款著名威士忌，以其顺滑而闻名。"
+    },
+    "website": "https://www.georgedickel.com",
+    "isActive": true
+  },
+  {
+    "id": "crown_royal",
+    "name": {
+      "en": "Crown Royal",
+      "zh": "皇冠"
+    },
+    "regionId": "manitoba",
+    "foundedYear": 1939,
+    "owner": {
+      "en": "Diageo",
+      "zh": "帝亚吉欧"
+    },
+    "description": {
+      "en": "Canada's best-selling whisky, known for smoothness.",
+      "zh": "加拿大最畅销的威士忌，以顺滑而闻名。"
+    },
+    "website": "https://www.crownroyal.com",
+    "isActive": true
+  },
+  {
+    "id": "lot40",
+    "name": {
+      "en": "Lot 40",
+      "zh": "40号地块"
+    },
+    "regionId": "ontario",
+    "foundedYear": 1998,
+    "owner": {
+      "en": "Corby Spirit and Wine",
+      "zh": "科比烈酒和葡萄酒"
+    },
+    "description": {
+      "en": "Reviving traditional 100% rye Canadian whisky.",
+      "zh": "复兴传统的100%黑麦加拿大威士忌。"
+    },
+    "website": "https://www.lot40.com",
+    "isActive": true
+  },
+  {
+    "id": "kavalan",
+    "name": {
+      "en": "Kavalan",
+      "zh": "噶玛兰"
+    },
+    "regionId": "yilan",
+    "foundedYear": 2005,
+    "owner": {
+      "en": "King Car Group",
+      "zh": "金车集团"
+    },
+    "description": {
+      "en": "Taiwan's pioneering distillery, multiple World Whisky Award winner.",
+      "zh": "台湾开创性的酒厂，多次获得世界威士忌奖。"
+    },
+    "website": "https://www.kavalanwhisky.com",
+    "isActive": true
+  },
+  {
+    "id": "amrut",
+    "name": {
+      "en": "Amrut",
+      "zh": "雅沐特"
+    },
+    "regionId": "karnataka",
+    "foundedYear": 1948,
+    "owner": {
+      "en": "Amrut Distilleries",
+      "zh": "雅沐特酒厂"
+    },
+    "description": {
+      "en": "India's first single malt producer, based in Bangalore.",
+      "zh": "印度第一家单一麦芽生产商，总部位于班加罗尔。"
+    },
+    "website": "https://www.amrutdistilleries.com",
+    "isActive": true
+  },
+  {
+    "id": "paul_john",
+    "name": {
+      "en": "Paul John",
+      "zh": "保罗约翰"
+    },
+    "regionId": "goa",
+    "foundedYear": 2008,
+    "owner": {
+      "en": "John Distilleries",
+      "zh": "约翰酒厂"
+    },
+    "description": {
+      "en": "Indian single malt from Goa's coastal climate.",
+      "zh": "来自果阿沿海气候的印度单一麦芽。"
+    },
+    "website": "https://www.pauljohnwhisky.com",
+    "isActive": true
+  },
+  {
+    "id": "sullivans_cove",
+    "name": {
+      "en": "Sullivans Cove",
+      "zh": "苏利文湾"
+    },
+    "regionId": "tasmania",
+    "foundedYear": 1994,
+    "owner": {
+      "en": "Tasmania Distillery",
+      "zh": "塔斯马尼亚酒厂"
+    },
+    "description": {
+      "en": "Australia's most awarded distillery.",
+      "zh": "澳大利亚获奖最多的酒厂。"
+    },
+    "website": "https://www.sullivanscove.com",
+    "isActive": true
+  },
+  {
+    "id": "starward",
+    "name": {
+      "en": "Starward",
+      "zh": "星途"
+    },
+    "regionId": "victoria",
+    "foundedYear": 2007,
+    "owner": {
+      "en": "Diageo",
+      "zh": "帝亚吉欧"
+    },
+    "description": {
+      "en": "Melbourne distillery using Australian wine barrels.",
+      "zh": "墨尔本酒厂使用澳大利亚葡萄酒桶。"
+    },
+    "website": "https://www.starward.com.au",
+    "isActive": true
+  },
+  {
+    "id": "penderyn",
+    "name": {
+      "en": "Penderyn",
+      "zh": "潘德林"
+    },
+    "regionId": "brecon",
+    "foundedYear": 2000,
+    "owner": {
+      "en": "Welsh Whisky Company",
+      "zh": "威尔士威士忌公司"
+    },
+    "description": {
+      "en": "Wales' first distillery in over a century.",
+      "zh": "一个多世纪以来威尔士的第一家酒厂。"
+    },
+    "website": "https://www.penderyn.wales",
+    "isActive": true
+  },
+  {
+    "id": "english_whisky_co",
+    "name": {
+      "en": "The English Whisky Company",
+      "zh": "英格兰威士忌公司"
+    },
+    "regionId": "norfolk",
+    "foundedYear": 2006,
+    "owner": {
+      "en": "Private",
+      "zh": "私人"
+    },
+    "description": {
+      "en": "England's first whisky distillery in over 100 years.",
+      "zh": "100多年来英格兰的第一家威士忌酒厂。"
+    },
+    "website": "https://www.englishwhisky.co.uk",
+    "isActive": true
+  },
+  {
+    "id": "cotswolds",
+    "name": {
+      "en": "Cotswolds Distillery",
+      "zh": "科茨沃尔德酒厂"
+    },
+    "regionId": "cotswolds",
+    "foundedYear": 2014,
+    "owner": {
+      "en": "Private",
+      "zh": "私人"
+    },
+    "description": {
+      "en": "Award-winning English whisky using local barley.",
+      "zh": "使用当地大麦的获奖英格兰威士忌。"
+    },
+    "website": "https://www.cotswoldsdistillery.com",
+    "isActive": true
+  },
+  {
+    "id": "lakes",
+    "name": {
+      "en": "The Lakes Distillery",
+      "zh": "湖区酒厂"
+    },
+    "regionId": "lake_district",
+    "foundedYear": 2014,
+    "owner": {
+      "en": "Private",
+      "zh": "私人"
+    },
+    "description": {
+      "en": "Whisky maker in England's stunning Lake District.",
+      "zh": "在英格兰美丽的湖区制作威士忌。"
+    },
+    "website": "https://www.lakesdistillery.com",
+    "isActive": true
+  },
+  {
+    "id": "mackmyra",
+    "name": {
+      "en": "Mackmyra",
+      "zh": "马克米拉"
+    },
+    "regionId": "gastrikland",
+    "foundedYear": 1999,
+    "owner": {
+      "en": "Private",
+      "zh": "私人"
+    },
+    "description": {
+      "en": "Sweden's whisky pioneer using Swedish oak.",
+      "zh": "瑞典威士忌先驱，使用瑞典橡木。"
+    },
+    "website": "https://www.mackmyra.com",
+    "isActive": true
+  },
+  {
+    "id": "stauning",
+    "name": {
+      "en": "Stauning",
+      "zh": "斯托宁"
+    },
+    "regionId": "west_jutland",
+    "foundedYear": 2005,
+    "owner": {
+      "en": "Diageo",
+      "zh": "帝亚吉欧"
+    },
+    "description": {
+      "en": "Danish distillery using traditional floor malting.",
+      "zh": "使用传统地板发芽的丹麦酒厂。"
+    },
+    "website": "https://www.stauningwhisky.com",
+    "isActive": true
+  },
+  {
+    "id": "zuidam",
+    "name": {
+      "en": "Zuidam",
+      "zh": "祖丹"
+    },
+    "regionId": "north_brabant",
+    "foundedYear": 1975,
+    "owner": {
+      "en": "Zuidam Family",
+      "zh": "祖丹家族"
+    },
+    "description": {
+      "en": "Dutch family distillery, home of Millstone.",
+      "zh": "荷兰家族酒厂，Millstone的故乡。"
+    },
+    "website": "https://www.zuidam.eu",
+    "isActive": true
+  },
+  {
+    "id": "slyrs",
+    "name": {
+      "en": "Slyrs",
+      "zh": "斯利尔斯"
+    },
+    "regionId": "bavaria",
+    "foundedYear": 1999,
+    "owner": {
+      "en": "Private",
+      "zh": "私人"
+    },
+    "description": {
+      "en": "Bavarian distillery using Alpine water.",
+      "zh": "使用阿尔卑斯水的巴伐利亚酒厂。"
+    },
+    "website": "https://www.slyrs.com",
+    "isActive": true
+  },
+  {
+    "id": "st_kilian",
+    "name": {
+      "en": "St. Kilian",
+      "zh": "圣基利安"
+    },
+    "regionId": "franconia",
+    "foundedYear": 2016,
+    "owner": {
+      "en": "Private",
+      "zh": "私人"
+    },
+    "description": {
+      "en": "Germany's largest malt whisky distillery.",
+      "zh": "德国最大的麦芽威士忌酒厂。"
+    },
+    "website": "https://www.stkiliandistillers.com",
+    "isActive": true
+  },
+  {
+    "id": "kyro",
+    "name": {
+      "en": "Kyrö",
+      "zh": "奇罗"
+    },
+    "regionId": "ostrobothnia",
+    "foundedYear": 2012,
+    "owner": {
+      "en": "Private",
+      "zh": "私人"
+    },
+    "description": {
+      "en": "Finnish distillery famous for rye spirits.",
+      "zh": "以黑麦烈酒而闻名的芬兰酒厂。"
+    },
+    "website": "https://www.kyrodistillery.com",
+    "isActive": true
+  },
+  {
+    "id": "teerenpeli",
+    "name": {
+      "en": "Teerenpeli",
+      "zh": "黑松鸡"
+    },
+    "regionId": "central_finland",
+    "foundedYear": 2002,
+    "owner": {
+      "en": "Private",
+      "zh": "私人"
+    },
+    "description": {
+      "en": "Finnish whisky from a brewery-distillery.",
+      "zh": "来自啤酒厂-酒厂的芬兰威士忌。"
+    },
+    "website": "https://www.teerenpeli.com",
+    "isActive": true
+  },
+  {
+    "id": "belgian_owl",
+    "name": {
+      "en": "The Belgian Owl",
+      "zh": "比利时猫头鹰"
+    },
+    "regionId": "wallonia",
+    "foundedYear": 1997,
+    "owner": {
+      "en": "Private",
+      "zh": "私人"
+    },
+    "description": {
+      "en": "Belgium's pioneering single malt distillery.",
+      "zh": "比利时开创性的单一麦芽酒厂。"
+    },
+    "website": "https://www.belgianwhisky.com",
+    "isActive": true
+  },
+  {
+    "id": "gouden_carolus",
+    "name": {
+      "en": "Het Anker (Gouden Carolus)",
+      "zh": "金锚(金卡罗勒斯)"
+    },
+    "regionId": "east_flanders",
+    "foundedYear": 2010,
+    "owner": {
+      "en": "Brewery Het Anker",
+      "zh": "金锚啤酒厂"
+    },
+    "description": {
+      "en": "Belgian whisky from renowned beer makers.",
+      "zh": "来自著名啤酒制造商的比利时威士忌。"
+    },
+    "website": "https://www.hetanker.be",
+    "isActive": true
+  },
+  {
+    "id": "langatun",
+    "name": {
+      "en": "Langatun",
+      "zh": "朗格图恩"
+    },
+    "regionId": "langenthal",
+    "foundedYear": 2005,
+    "owner": {
+      "en": "Private",
+      "zh": "私人"
+    },
+    "description": {
+      "en": "Swiss distillery known for wine cask finishes.",
+      "zh": "以葡萄酒桶陈年而闻名的瑞士酒厂。"
+    },
+    "website": "https://www.langatun.ch",
+    "isActive": true
+  },
+  {
+    "id": "warenghem",
+    "name": {
+      "en": "Distillerie Warenghem",
+      "zh": "沃朗海姆酒厂"
+    },
+    "regionId": "brittany",
+    "foundedYear": 1900,
+    "owner": {
+      "en": "Private",
+      "zh": "私人"
+    },
+    "description": {
+      "en": "France's oldest whisky producer, home of Armorik.",
+      "zh": "法国最古老的威士忌生产商，Armorik的故乡。"
+    },
+    "website": "https://www.distillerie-warenghem.com",
+    "isActive": true
+  },
+  {
+    "id": "glann_ar_mor",
+    "name": {
+      "en": "Glann ar Mor",
+      "zh": "格兰海"
+    },
+    "regionId": "brittany",
+    "foundedYear": 1999,
+    "owner": {
+      "en": "Private",
+      "zh": "私人"
+    },
+    "description": {
+      "en": "Craft Breton whisky using direct-fire distillation.",
+      "zh": "使用直火蒸馏的手工布列塔尼威士忌。"
+    },
+    "website": "https://www.glannarmor.com",
+    "isActive": true
+  },
+  {
+    "id": "thomson",
+    "name": {
+      "en": "Thomson Whisky",
+      "zh": "汤姆森威士忌"
+    },
+    "regionId": "auckland",
+    "foundedYear": 2014,
+    "owner": {
+      "en": "Private",
+      "zh": "私人"
+    },
+    "description": {
+      "en": "New Zealand whisky using native Manuka wood.",
+      "zh": "使用本地麦卢卡木的新西兰威士忌。"
+    },
+    "website": "https://www.thomsonwhisky.com",
+    "isActive": true
+  },
+  {
+    "id": "james_sedgwick",
+    "name": {
+      "en": "James Sedgwick",
+      "zh": "詹姆斯·塞奇威克"
+    },
+    "regionId": "western_cape",
+    "foundedYear": 1886,
+    "owner": {
+      "en": "Distell",
+      "zh": "迪斯特尔"
+    },
+    "description": {
+      "en": "South Africa's only whisky distillery.",
+      "zh": "南非唯一的威士忌酒厂。"
+    },
+    "website": "https://www.threeshipswhisky.co.za",
+    "isActive": true
+  },
+  {
+    "id": "milk_honey",
+    "name": {
+      "en": "Milk & Honey",
+      "zh": "牛奶与蜂蜜"
+    },
+    "regionId": "tel_aviv",
+    "foundedYear": 2014,
+    "owner": {
+      "en": "Private",
+      "zh": "私人"
+    },
+    "description": {
+      "en": "Israel's first whisky distillery.",
+      "zh": "以色列第一家威士忌酒厂。"
+    },
+    "website": "https://www.mh-distillery.com",
+    "isActive": true
+  },
+  {
+    "id": "dyc",
+    "name": {
+      "en": "DYC",
+      "zh": "DYC"
+    },
+    "regionId": "segovia",
+    "foundedYear": 1959,
+    "owner": {
+      "en": "Beam Suntory",
+      "zh": "宾三得利"
+    },
+    "description": {
+      "en": "Spain's historic whisky producer.",
+      "zh": "西班牙历史悠久的威士忌生产商。"
+    },
+    "website": "https://www.dyc.es",
+    "isActive": true
+  },
+  {
+    "id": "puni",
+    "name": {
+      "en": "PUNI",
+      "zh": "PUNI"
+    },
+    "regionId": "south_tyrol",
+    "foundedYear": 2010,
+    "owner": {
+      "en": "Private",
+      "zh": "私人"
+    },
+    "description": {
+      "en": "Italy's first whisky distillery in the Alps.",
+      "zh": "意大利在阿尔卑斯山的第一家威士忌酒厂。"
+    },
+    "website": "https://www.puni.com",
+    "isActive": true
+  },
+  {
+    "id": "stock",
+    "name": {
+      "en": "Stock Spirits (Hammer Head)",
+      "zh": "斯托克(锤头)"
+    },
+    "regionId": "bohemia",
+    "foundedYear": 1906,
+    "owner": {
+      "en": "Stock Spirits",
+      "zh": "斯托克烈酒"
+    },
+    "description": {
+      "en": "Producer of legendary Czech Hammer Head whisky.",
+      "zh": "传奇捷克锤头威士忌的生产商。"
+    },
+    "website": "https://www.stock.cz",
+    "isActive": true
+  },
+  {
+    "id": "reisetbauer",
+    "name": {
+      "en": "Reisetbauer",
+      "zh": "赖泽特鲍尔"
+    },
+    "regionId": "upper_austria",
+    "foundedYear": 1994,
+    "owner": {
+      "en": "Private",
+      "zh": "私人"
+    },
+    "description": {
+      "en": "Austrian master distiller of fruit and whisky.",
+      "zh": "奥地利水果和威士忌大师蒸馏师。"
+    },
+    "website": "https://www.reisetbauer.at",
+    "isActive": true
+  },
+  {
+    "id": "waldviertler",
+    "name": {
+      "en": "Waldviertler",
+      "zh": "瓦尔德维尔特勒"
+    },
+    "regionId": "lower_austria",
+    "foundedYear": 1995,
+    "owner": {
+      "en": "Private",
+      "zh": "私人"
+    },
+    "description": {
+      "en": "Austrian distillery experimenting with grains.",
+      "zh": "尝试谷物的奥地利酒厂。"
+    },
+    "website": "https://www.whisky.at",
+    "isActive": true
+  },
+  {
+    "id": "rachelle_rabbit",
+    "name": {
+      "en": "Rachelle The Rabbit Distillery",
+      "zh": "瑞秋兔酒厂"
+    },
+    "regionId": "singapore_central",
+    "foundedYear": 2019,
+    "owner": {
+      "en": "Private",
+      "zh": "私人"
+    },
+    "description": {
+      "en": "Singapore's largest distillery and first whiskey producer. Creates Singapore's first rice whiskey from Thai Hom Mali rice, collaborating with renowned Japanese whisky expert Kenji Hariu.",
+      "zh": "新加坡最大的酒厂和第一家威士忌生产商。使用泰国茉莉香米创造新加坡第一款米威士忌，与日本威士忌专家针生健二合作。"
+    },
+    "website": "https://www.rachelletherabbit.com",
+    "isActive": true
+  },
+  {
+    "id": "reddot_brewhouse",
+    "name": {
+      "en": "RedDot BrewHouse",
+      "zh": "红点啤酒屋"
+    },
+    "regionId": "singapore_central",
+    "foundedYear": 2003,
+    "owner": {
+      "en": "Private",
+      "zh": "私人"
+    },
+    "description": {
+      "en": "Producer of Hidden Hills Single Malt Whisky and craft spirits, pioneering distillation in Singapore.",
+      "zh": "Hidden Hills单一麦芽威士忌和手工烈酒生产商，开创新加坡蒸馏业先河。"
+    },
+    "website": "https://www.reddotbrewhouse.com.sg",
+    "isActive": true
+  },
+  {
+    "id": "brass_lion",
+    "name": {
+      "en": "Brass Lion Distillery",
+      "zh": "黄铜狮酒厂"
+    },
+    "regionId": "singapore_central",
+    "foundedYear": 2017,
+    "owner": {
+      "en": "Private",
+      "zh": "私人"
+    },
+    "description": {
+      "en": "Craft distillery focusing on gin and innovative spirits production in Singapore.",
+      "zh": "专注于杜松子酒和创新烈酒生产的手工酒厂。"
+    },
+    "website": "https://brassliondistillery.com",
+    "isActive": true
+  }
+]

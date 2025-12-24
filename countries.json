@@ -1,0 +1,336 @@
+[
+  {
+    "id": "scotland",
+    "name": {"en": "Scotland", "zh": "苏格兰"},
+    "flagEmoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "description": {
+      "en": "The birthplace of whisky, Scotland has been producing whisky for over 500 years. With over 130 active distilleries across five distinct regions, Scottish single malt whisky is celebrated worldwide for its diversity and quality.",
+      "zh": "威士忌的诞生地，苏格兰生产威士忌已有500多年历史。拥有超过130家活跃的酒厂，分布在五个不同的地区，苏格兰单一麦芽威士忌因其多样性和品质而享誉全球。"
+    },
+    "whiskyStyles": [
+      {"en": "Single Malt", "zh": "单一麦芽"},
+      {"en": "Blended Malt", "zh": "混合麦芽"},
+      {"en": "Blended Scotch", "zh": "混合苏格兰"},
+      {"en": "Single Grain", "zh": "单一谷物"}
+    ]
+  },
+  {
+    "id": "ireland",
+    "name": {"en": "Ireland", "zh": "爱尔兰"},
+    "flagEmoji": "🇮🇪",
+    "description": {
+      "en": "Ireland claims to be the original home of whiskey, with a rich distilling heritage dating back centuries. Irish whiskey is typically triple-distilled, resulting in a smoother, lighter character.",
+      "zh": "爱尔兰声称是威士忌的原产地，拥有可追溯数百年的丰富蒸馏传统。爱尔兰威士忌通常经过三次蒸馏，口感更加顺滑轻盈。"
+    },
+    "whiskyStyles": [
+      {"en": "Single Malt", "zh": "单一麦芽"},
+      {"en": "Single Pot Still", "zh": "单一壶式蒸馏"},
+      {"en": "Single Grain", "zh": "单一谷物"},
+      {"en": "Blended", "zh": "混合"}
+    ]
+  },
+  {
+    "id": "japan",
+    "name": {"en": "Japan", "zh": "日本"},
+    "flagEmoji": "🇯🇵",
+    "description": {
+      "en": "Japanese whisky combines Scottish techniques with Japanese precision and philosophy. Known for exceptional balance, elegance, and the unique Mizunara oak influence.",
+      "zh": "日本威士忌将苏格兰技术与日本的精密和哲学相结合。以卓越的平衡感、优雅和独特的水楢橡木影响而闻名。"
+    },
+    "whiskyStyles": [
+      {"en": "Single Malt", "zh": "单一麦芽"},
+      {"en": "Blended", "zh": "混合"},
+      {"en": "Grain", "zh": "谷物"}
+    ]
+  },
+  {
+    "id": "usa",
+    "name": {"en": "United States", "zh": "美国"},
+    "flagEmoji": "🇺🇸",
+    "description": {
+      "en": "American whiskey is defined by bourbon, rye, and Tennessee whiskey. Using new charred oak barrels creates distinctive sweet, vanilla, and caramel notes.",
+      "zh": "美国威士忌以波本、黑麦和田纳西威士忌为代表。使用新烤橡木桶创造出独特的甜味、香草和焦糖风味。"
+    },
+    "whiskyStyles": [
+      {"en": "Bourbon", "zh": "波本"},
+      {"en": "Rye", "zh": "黑麦"},
+      {"en": "Tennessee Whiskey", "zh": "田纳西威士忌"},
+      {"en": "American Single Malt", "zh": "美国单一麦芽"}
+    ]
+  },
+  {
+    "id": "canada",
+    "name": {"en": "Canada", "zh": "加拿大"},
+    "flagEmoji": "🇨🇦",
+    "description": {
+      "en": "Canadian whisky is known for its smooth, light character. Traditionally rye-based, modern Canadian whisky encompasses a wide range of styles.",
+      "zh": "加拿大威士忌以其顺滑轻盈的特点而闻名。传统上以黑麦为基础，现代加拿大威士忌涵盖了广泛的风格。"
+    },
+    "whiskyStyles": [
+      {"en": "Rye Whisky", "zh": "黑麦威士忌"},
+      {"en": "Blended", "zh": "混合"},
+      {"en": "Single Malt", "zh": "单一麦芽"}
+    ]
+  },
+  {
+    "id": "taiwan",
+    "name": {"en": "Taiwan", "zh": "台湾"},
+    "flagEmoji": "🇹🇼",
+    "description": {
+      "en": "Taiwan's tropical climate accelerates maturation, creating intensely flavored whiskies in a fraction of the time. Kavalan has won numerous world awards.",
+      "zh": "台湾的热带气候加速了威士忌的陈化，在更短的时间内创造出风味浓郁的威士忌。噶玛兰已获得众多世界奖项。"
+    },
+    "whiskyStyles": [
+      {"en": "Single Malt", "zh": "单一麦芽"}
+    ]
+  },
+  {
+    "id": "singapore",
+    "name": {"en": "Singapore", "zh": "新加坡"},
+    "flagEmoji": "🇸🇬",
+    "description": {
+      "en": "Singapore's emerging whisky scene showcases innovation in tropical aging. Home to Singapore's first rice whiskey and pioneering single malt productions in Southeast Asia.",
+      "zh": "新加坡新兴的威士忌产业展示了热带陈化的创新。拥有新加坡第一款米威士忌和东南亚开创性的单一麦芽威士忌生产。"
+    },
+    "whiskyStyles": [
+      {"en": "Single Malt", "zh": "单一麦芽"},
+      {"en": "Rice Whiskey", "zh": "米威士忌"}
+    ]
+  },
+  {
+    "id": "india",
+    "name": {"en": "India", "zh": "印度"},
+    "flagEmoji": "🇮🇳",
+    "description": {
+      "en": "India is one of the world's largest whisky markets. Premium Indian single malts have gained international recognition for their quality and unique tropical character.",
+      "zh": "印度是世界上最大的威士忌市场之一。优质的印度单一麦芽威士忌因其品质和独特的热带特性而获得国际认可。"
+    },
+    "whiskyStyles": [
+      {"en": "Single Malt", "zh": "单一麦芽"},
+      {"en": "Blended", "zh": "混合"}
+    ]
+  },
+  {
+    "id": "australia",
+    "name": {"en": "Australia", "zh": "澳大利亚"},
+    "flagEmoji": "🇦🇺",
+    "description": {
+      "en": "Australian whisky has emerged as a world-class category, with Tasmania leading the way. Climate diversity allows for varied maturation profiles.",
+      "zh": "澳大利亚威士忌已成为世界级产品，塔斯马尼亚州处于领先地位。气候多样性使得陈化特性各不相同。"
+    },
+    "whiskyStyles": [
+      {"en": "Single Malt", "zh": "单一麦芽"}
+    ]
+  },
+  {
+    "id": "wales",
+    "name": {"en": "Wales", "zh": "威尔士"},
+    "flagEmoji": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+    "description": {
+      "en": "Welsh whisky has a rich history, with Penderyn leading its modern revival. Known for its light, fruity, and elegant single malts.",
+      "zh": "威尔士威士忌历史悠久，Penderyn引领了其现代复兴。以其轻盈、果香和优雅的单一麦芽而闻名。"
+    },
+    "whiskyStyles": [
+      {"en": "Single Malt", "zh": "单一麦芽"}
+    ]
+  },
+  {
+    "id": "england",
+    "name": {"en": "England", "zh": "英格兰"},
+    "flagEmoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "description": {
+      "en": "English whisky is experiencing a renaissance, with new distilleries showcasing the country's malting heritage and terroir.",
+      "zh": "英格兰威士忌正在经历复兴，新酒厂展示了该国的麦芽传统和风土特色。"
+    },
+    "whiskyStyles": [
+      {"en": "Single Malt", "zh": "单一麦芽"},
+      {"en": "Blended", "zh": "混合"}
+    ]
+  },
+  {
+    "id": "france",
+    "name": {"en": "France", "zh": "法国"},
+    "flagEmoji": "🇫🇷",
+    "description": {
+      "en": "France has a growing whisky scene, particularly in Brittany where Celtic traditions meet French wine expertise.",
+      "zh": "法国的威士忌产业不断发展，特别是在布列塔尼地区，凯尔特传统与法国葡萄酒专业知识相结合。"
+    },
+    "whiskyStyles": [
+      {"en": "Single Malt", "zh": "单一麦芽"},
+      {"en": "Blended", "zh": "混合"}
+    ]
+  },
+  {
+    "id": "sweden",
+    "name": {"en": "Sweden", "zh": "瑞典"},
+    "flagEmoji": "🇸🇪",
+    "description": {
+      "en": "Swedish whisky pioneers like Mackmyra have created unique expressions using Swedish oak and innovative techniques.",
+      "zh": "像Mackmyra这样的瑞典威士忌先驱使用瑞典橡木和创新技术创造出独特的产品。"
+    },
+    "whiskyStyles": [
+      {"en": "Single Malt", "zh": "单一麦芽"}
+    ]
+  },
+  {
+    "id": "germany",
+    "name": {"en": "Germany", "zh": "德国"},
+    "flagEmoji": "🇩🇪",
+    "description": {
+      "en": "Germany has a thriving craft whisky scene, with distilleries drawing on brewing expertise and alpine water sources.",
+      "zh": "德国拥有蓬勃发展的手工威士忌产业，酒厂借鉴酿造专业知识和阿尔卑斯水源。"
+    },
+    "whiskyStyles": [
+      {"en": "Single Malt", "zh": "单一麦芽"}
+    ]
+  },
+  {
+    "id": "netherlands",
+    "name": {"en": "Netherlands", "zh": "荷兰"},
+    "flagEmoji": "🇳🇱",
+    "description": {
+      "en": "Dutch distilleries like Zuidam produce world-class whiskies, particularly rye-based expressions.",
+      "zh": "荷兰的酒厂如Zuidam生产世界级威士忌，特别是黑麦基威士忌。"
+    },
+    "whiskyStyles": [
+      {"en": "Single Malt", "zh": "单一麦芽"},
+      {"en": "Rye", "zh": "黑麦"}
+    ]
+  },
+  {
+    "id": "switzerland",
+    "name": {"en": "Switzerland", "zh": "瑞士"},
+    "flagEmoji": "🇨🇭",
+    "description": {
+      "en": "Swiss whisky benefits from Alpine water and innovative cask finishes, creating elegant and refined expressions.",
+      "zh": "瑞士威士忌受益于阿尔卑斯水源和创新的桶陈工艺，创造出优雅精致的产品。"
+    },
+    "whiskyStyles": [
+      {"en": "Single Malt", "zh": "单一麦芽"}
+    ]
+  },
+  {
+    "id": "finland",
+    "name": {"en": "Finland", "zh": "芬兰"},
+    "flagEmoji": "🇫🇮",
+    "description": {
+      "en": "Finnish whisky is characterized by Nordic ingredients and climate, with rye playing a significant role.",
+      "zh": "芬兰威士忌以北欧原料和气候为特色，黑麦起着重要作用。"
+    },
+    "whiskyStyles": [
+      {"en": "Single Malt", "zh": "单一麦芽"},
+      {"en": "Rye", "zh": "黑麦"}
+    ]
+  },
+  {
+    "id": "denmark",
+    "name": {"en": "Denmark", "zh": "丹麦"},
+    "flagEmoji": "🇩🇰",
+    "description": {
+      "en": "Danish whisky, led by Stauning, emphasizes local ingredients and traditional floor-malting techniques.",
+      "zh": "由Stauning领导的丹麦威士忌强调当地原料和传统地板发芽技术。"
+    },
+    "whiskyStyles": [
+      {"en": "Single Malt", "zh": "单一麦芽"},
+      {"en": "Rye", "zh": "黑麦"}
+    ]
+  },
+  {
+    "id": "belgium",
+    "name": {"en": "Belgium", "zh": "比利时"},
+    "flagEmoji": "🇧🇪",
+    "description": {
+      "en": "Belgian whisky often draws on the country's renowned brewing heritage, creating unique expressions.",
+      "zh": "比利时威士忌通常借鉴该国著名的酿造传统，创造独特的产品。"
+    },
+    "whiskyStyles": [
+      {"en": "Single Malt", "zh": "单一麦芽"}
+    ]
+  },
+  {
+    "id": "new_zealand",
+    "name": {"en": "New Zealand", "zh": "新西兰"},
+    "flagEmoji": "🇳🇿",
+    "description": {
+      "en": "New Zealand whisky uses unique native woods like Manuka for smoking, creating distinctive flavors.",
+      "zh": "新西兰威士忌使用麦卢卡等独特的本地木材进行烟熏，创造出独特的风味。"
+    },
+    "whiskyStyles": [
+      {"en": "Single Malt", "zh": "单一麦芽"}
+    ]
+  },
+  {
+    "id": "south_africa",
+    "name": {"en": "South Africa", "zh": "南非"},
+    "flagEmoji": "🇿🇦",
+    "description": {
+      "en": "South African whisky benefits from unique climate and has won multiple world awards.",
+      "zh": "南非威士忌受益于独特的气候，并获得了多项世界奖项。"
+    },
+    "whiskyStyles": [
+      {"en": "Single Malt", "zh": "单一麦芽"},
+      {"en": "Single Grain", "zh": "单一谷物"}
+    ]
+  },
+  {
+    "id": "israel",
+    "name": {"en": "Israel", "zh": "以色列"},
+    "flagEmoji": "🇮🇱",
+    "description": {
+      "en": "Israeli whisky from Milk & Honey showcases rapid maturation in the Mediterranean climate.",
+      "zh": "来自Milk & Honey的以色列威士忌展示了地中海气候下的快速陈化。"
+    },
+    "whiskyStyles": [
+      {"en": "Single Malt", "zh": "单一麦芽"}
+    ]
+  },
+  {
+    "id": "spain",
+    "name": {"en": "Spain", "zh": "西班牙"},
+    "flagEmoji": "🇪🇸",
+    "description": {
+      "en": "Spain has a long whisky tradition with DYC, aged in the mountains of Segovia.",
+      "zh": "西班牙拥有悠久的威士忌传统，DYC在塞哥维亚山区陈化。"
+    },
+    "whiskyStyles": [
+      {"en": "Blended", "zh": "混合"},
+      {"en": "Single Malt", "zh": "单一麦芽"}
+    ]
+  },
+  {
+    "id": "italy",
+    "name": {"en": "Italy", "zh": "意大利"},
+    "flagEmoji": "🇮🇹",
+    "description": {
+      "en": "Italian whisky from PUNI combines Alpine terroir with Italian wine cask influences.",
+      "zh": "来自PUNI的意大利威士忌将阿尔卑斯风土与意大利葡萄酒桶影响相结合。"
+    },
+    "whiskyStyles": [
+      {"en": "Single Malt", "zh": "单一麦芽"}
+    ]
+  },
+  {
+    "id": "czech_republic",
+    "name": {"en": "Czech Republic", "zh": "捷克共和国"},
+    "flagEmoji": "🇨🇿",
+    "description": {
+      "en": "Czech whisky has a surprising history, with Hammer Head offering remarkable aged expressions.",
+      "zh": "捷克威士忌有着令人惊讶的历史，Hammer Head提供卓越的陈年产品。"
+    },
+    "whiskyStyles": [
+      {"en": "Single Malt", "zh": "单一麦芽"}
+    ]
+  },
+  {
+    "id": "austria",
+    "name": {"en": "Austria", "zh": "奥地利"},
+    "flagEmoji": "🇦🇹",
+    "description": {
+      "en": "Austrian whisky often incorporates wine cask finishes from the country's renowned vineyards.",
+      "zh": "奥地利威士忌通常融入该国著名葡萄园的葡萄酒桶陈化工艺。"
+    },
+    "whiskyStyles": [
+      {"en": "Single Malt", "zh": "单一麦芽"}
+    ]
+  }
+]
